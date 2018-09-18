@@ -1,5 +1,5 @@
 ### Welcome To My GitHub Page.
-I am a retired teacher who enjoys tinkering with code. I've had some ideas for an education oriented app or two floating around in my head for a while now that I just can't seem to shake out.
+I am a retired teacher who enjoys tinkering with code. I've had some ideas for various apps or two floating around in my head for a while that I may never fully realize. Oh well. Still fun to tinker.
 
 ### Data visualization
 This is my current interest. I took a university level statistics class many years ago and I want to continue learning about data manipulation, statistical wrangling and making pictures out of numbers. Currently studying R and Shiny.
