@@ -2,7 +2,7 @@ title: Lance F Barker on Github
 description: What the hell am I up to here?
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-architect
+theme: jekyll-theme-leap-day
 
 gems:
   - jekyll-mentions
