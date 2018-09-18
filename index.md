@@ -1,14 +1,11 @@
 ### Welcome To My GitHub Page.
-I am a retired teacher on a mission to learn to code -- an old dog wanting to learn some new tricks. I've had some ideas for an education oriented app or two floating around in my head for a while now that I just can't seem to shake out.
+I am a retired teacher who enjoys tinkering with code. I've had some ideas for an education oriented app or two floating around in my head for a while now that I just can't seem to shake out.
 
-### No Previous Experience
-Lookout. I have no idea what I'm doing. I don't consider myself a programmer type (although I've created a website or two from time to time). But how hard could it be?
+### Data visualization
+This is my current interest. I took a university level statistics class many years ago and I want to continue learning about data manipulation, statistical wrangling and making pictures out of numbers. Currently studying R and Shiny.
 
 ### Meteor!
-I've discovered Meteor and I'm determined to use it to build my app. I look forward to the benefit of deploying on iOS and Android if it make sense to go that way. Currently I'm learning HTML, CSS, and Javascript and playing around with the Meteor tools. Honestly, it's overwhelming, but I'm going to carry on.
-
-### First things
-My first app is going to be a proverb dictionary. I hope it will be of some benefit to any of my adult literacy students. Before I get there, I aim to play around with some different learning approaches. Checkout my repos for what I'm currently working on.
+Meteor was my first experience and although I have moved on, I still have some code for an app project lying around. My first app was shaping up to be a proverb dictionary. I had intended it to be of some benefit to any of my adult literacy students. I'm not currently planning on any more work on this project.
 
 ### Contact
 If you happen upon this page and you're at all interested in support, collaboration or advice, don't hesitate to drop me a line at lancefb at gmail dot com.
