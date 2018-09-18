@@ -7,5 +7,8 @@ This is my current interest. I took a university level statistics class many yea
 ### Meteor!
 Meteor was my first experience and although I have moved on, I still have some code for an app project lying around. My first app was shaping up to be a proverb dictionary. I had intended it to be of some benefit to any of my adult literacy students. I'm not currently planning on any more work on this project.
 
+### Pascal
+This was my first programming language experience. Perhaps someday I'll look for that stuff and share. But probably not.
+
 ### Contact
 If you happen upon this page and you're at all interested in support, collaboration or advice, don't hesitate to drop me a line at lancefb at gmail dot com.
