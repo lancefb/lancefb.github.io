@@ -1,0 +1,14 @@
+# Hugo build output
+/public/
+/resources/_gen/
+
+# macOS
+.DS_Store
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Hugo
+.hugo_build.lock
