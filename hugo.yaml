@@ -96,7 +96,7 @@ params:
   about:
     enable: true
     title: "About"
-    image: ""
+    image: /images/aboutImage.jpg
 
   # Experience
   experience:
