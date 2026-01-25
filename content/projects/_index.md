@@ -1,7 +1,6 @@
 ---
 title: "Projects"
-date: 2026-01-18
-draft: false
+date: 2026-01-23
 ---
 
-A collection of projects I'm working on or have contributed to.
+All my projects.

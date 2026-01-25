@@ -1,0 +1,10 @@
+---
+title: "Weekly Projects? Taking A Break."
+date: 2018-01-22T23:21:00Z
+tags: ["Experiment", "Projects", "Truth"]
+author: "L. Barker"
+---
+
+[![](/images/b08da477bbc8_Hiatus.jpg)](/images/0898ab08b9eb_Hiatus.jpg)
+
+Taking a little hiatus from weekly projects for a bit.  I think limiting each project to one week is too confining for my taste. So, they will be back but with a change. I'll probably just call them Projects.

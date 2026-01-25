@@ -7,7 +7,7 @@ ShowReadingTime: false
 ShowBreadCrumbs: false
 ---
 
-I'm Lance Barker, an entrepreneur and citizen building things that matter.
+I'm Lance Barker, a citizen, entrepreneur, musician. 
 
 ## What I Do
 

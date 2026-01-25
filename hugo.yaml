@@ -1,0 +1,210 @@
+baseURL: "https://lancefb.github.io"
+languageCode: "en-us"
+title: "LFB"
+theme: hugo-profile
+
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
+    - "JSON"
+  page:
+    - "HTML"
+    - "RSS"
+
+enableRobotsTXT: true
+
+pagination:
+  pagerSize: 10
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+Menus:
+  main:
+    - identifier: blog
+      name: Blog
+      title: Blog posts
+      url: /blogs
+      weight: 1
+    - identifier: tags
+      name: Tags
+      title: Browse by tag
+      url: /tags
+      weight: 2
+    - identifier: gallery
+      name: Gallery
+      title: Gallery
+      url: /gallery
+      weight: 3
+
+params:
+  title: "Lance Barker"
+  description: "Entrepreneur, citizen, musician. Building things that matter."
+  favicon: ""
+
+  useBootstrapCDN: false
+  mathjax: false
+  animate: true
+
+  theme:
+    defaultTheme: "dark"
+
+  font:
+    fontSize: 1rem
+    fontWeight: 400
+    lineHeight: 1.5
+    textAlign: left
+
+  navbar:
+    align: ms-auto
+    brandName: "Truth Beauty Math Coffee"
+    disableSearch: false
+    stickyNavBar:
+      enable: true
+      showOnScrollUp: true
+    enableSeparator: false
+    menus:
+      disableAbout: false
+      disableExperience: true
+      disableEducation: true
+      disableProjects: false
+      disableAchievements: true
+      disableContact: false
+
+  # Hero
+  hero:
+    enable: true
+    intro: "Hi, I'm"
+    title: "Lance Barker"
+    subtitle: "Creator, Entrepreneur, Citizen."
+    content: "Exploring my own creative expression and building things that help people."
+    image: /images/tbmcHero.jpg
+    bottomImage:
+      enable: false
+    button:
+      enable: false
+    socialLinks:
+      fontAwesomeIcons:
+        - icon: fab fa-github
+          url: https://github.com/lancefb
+
+  # About
+  # Content is now in data/about.md for easier editing
+  about:
+    enable: true
+    title: "About"
+    image: ""
+
+  # Experience
+  experience:
+    enable: false
+    items:
+      - company: "Your Company"
+        companyUrl: "https://example.com"
+        jobs:
+          - name: "Your Role"
+            date: "2020 - Present"
+            content: |
+              Placeholder description of your role and responsibilities.
+
+              - Key achievement or responsibility
+              - Another key point
+
+      - company: "Previous Company"
+        companyUrl: "https://example.com"
+        jobs:
+          - name: "Previous Role"
+            date: "2015 - 2020"
+            content: |
+              Placeholder description of your previous role.
+
+              - Key achievement
+              - Another contribution
+
+  # Education
+  education:
+    enable: false
+    index: false
+    items:
+      - title: "Degree or Certification"
+        school:
+          name: "University Name"
+          url: "https://example.org"
+        date: "Year - Year"
+        content: |-
+          Placeholder for your educational background.
+
+          Activities and achievements:
+          - Activity or honor
+          - Another achievement
+
+      - title: "Earlier Education"
+        school:
+          name: "School Name"
+          url: "https://example.org"
+        date: "Year - Year"
+        content: "Placeholder description."
+
+  # Achievements
+  achievements:
+    enable: false
+    items:
+      - title: "Achievement One"
+        content: "Placeholder description of an achievement or award."
+        url: "https://example.com"
+        image: "https://placehold.co/600x400/1a1a2e/FFFFFF?text=Achievement+1"
+      - title: "Achievement Two"
+        content: "Another placeholder achievement."
+        image: "https://placehold.co/600x400/16213e/FFFFFF?text=Achievement+2"
+      - title: "Achievement Three"
+        content: "A third placeholder achievement."
+        url: "https://example.com"
+        image: "https://placehold.co/600x400/0f3460/FFFFFF?text=Achievement+3"
+
+  # Projects
+  # Projects are now managed as full pages in content/projects/
+  projects:
+    enable: true
+
+  # Contact
+  contact:
+    enable: true
+    content: Have a question or want to connect? Feel free to reach out.
+    btnName: Email me
+    btnLink: mailto:lance@example.com
+
+  footer:
+    recentPosts:
+      path: "blogs"
+      count: 3
+      title: Recent Posts
+      enable: true
+      disableFeaturedImage: false
+    socialNetworks:
+      github: https://github.com/lancefb
+
+  listPages:
+    disableFeaturedImage: false
+
+  singlePages:
+    socialShare: false
+    readTime:
+      enable: true
+      content: "min read"
+    scrollprogress:
+      enable: true
+
+  terms:
+    read: "Read"
+    toc: "Table Of Contents"
+    copyright: "All rights reserved"
+    pageNotFound: "Page not found"
+    emailText: "Check out this site"
+
+  datesFormat:
+    article: "Jan 2, 2006"
+    articleList: "Jan 2, 2006"
+    articleRecent: "Jan 2, 2006"
