@@ -174,7 +174,7 @@ params:
     enable: true
     content: Have a question or want to connect? Feel free to reach out.
     btnName: Email me
-    btnLink: mailto:lance@example.com
+    btnLink: mailto:lancefb@gmail.com
 
   footer:
     recentPosts:
