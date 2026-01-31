@@ -3,6 +3,7 @@ title: "Project #8 (Part One): Scales on guitar"
 date: 2018-06-18T23:31:00.001Z
 tags: ["Beauty", "Music", "Projects"]
 author: "L. Barker"
+featureimage: "/images/85dc5c0a2cde_acoustic-guitar.png"
 ---
 
 [![](/images/85dc5c0a2cde_acoustic-guitar.png)](/images/d652f9ad47ed_acoustic-guitar.png)

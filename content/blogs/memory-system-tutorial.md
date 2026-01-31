@@ -4,6 +4,7 @@ date: 2026-01-21
 draft: false
 tags: ["AI", "productivity", "knowledge-management", "PAI"]
 description: "How to set up a markdown-based memory system that your AI assistant can read and write to directly"
+featureimage: "/images/desk_papers_notes_500x500.jpg"
 ---
 
 ## Got Notes? ##

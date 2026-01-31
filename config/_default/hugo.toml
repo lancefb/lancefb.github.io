@@ -1,0 +1,17 @@
+theme = "blowfish"
+baseURL = "https://lancefb.github.io"
+defaultContentLanguage = "en"
+
+enableRobotsTXT = true
+summaryLength = 30
+enableEmoji = true
+
+[pagination]
+  pagerSize = 10
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

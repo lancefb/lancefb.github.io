@@ -3,6 +3,7 @@ title: "Hello, Blob. (A Brief Encounter With Abstract Life)"
 date: 2023-07-12T05:18:00.005Z
 tags: ["Beauty", "Numbers", "Art", "Inspired Geometry", "Experiment", "AI"]
 author: "L. Barker"
+featureimage: "/images/0f698b124412_output.gif"
 ---
 
 [![](/images/0f698b124412_output.gif)](/images/6fdd0e45734d_output.gif)

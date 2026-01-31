@@ -3,6 +3,7 @@ title: "Red Hats, Cold Feet"
 date: 2025-12-29
 tags: ["Art", "Satire", "Politics", "Fun"]
 author: "L. Barker"
+featureimage: "/images/c4f4d132a222_mmWave.png"
 ---
 
 [![](/images/c4f4d132a222_mmWave.png)](/images/6881695dcfe2_mmWave.png)

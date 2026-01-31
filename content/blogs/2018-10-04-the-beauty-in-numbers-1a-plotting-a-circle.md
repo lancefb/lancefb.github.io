@@ -3,6 +3,7 @@ title: "The Beauty In Numbers, 1a: Plotting a circle."
 date: 2018-10-04T06:36:00.002Z
 tags: ["Beauty", "Numbers", "Inspired Geometry"]
 author: "L. Barker"
+featureimage: "/images/88db50ea5faa_500px-Pythagorean.png"
 ---
 
 [![](/images/88db50ea5faa_500px-Pythagorean.png)](/images/92df208404e2_500px-Pythagorean.png)

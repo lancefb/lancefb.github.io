@@ -3,6 +3,7 @@ title: "Yes, It's Adulterated"
 date: 2018-08-08T02:37:00.001Z
 tags: ["Coffee", "Truth"]
 author: "L. Barker"
+featureimage: "/images/83c0e232fcd8_IMG_1216.jpg"
 ---
 
 [![](/images/83c0e232fcd8_IMG_1216.jpg)](/images/f50f91bb37aa_IMG_1216.jpg)

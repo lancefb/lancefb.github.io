@@ -3,6 +3,7 @@ title: "Water Works"
 date: 2018-04-11T20:02:00Z
 tags: ["Projects"]
 author: "L. Barker"
+featureimage: "/images/6a39febaf88e_IMG_1302.jpg"
 ---
 
 Last Fall, as I was closing down the garden irrigation for the Winter, the valve broke (plastic!). Luckily it broke in the off position. I held out hope I'd be able to clamp onto some part of the old valve with a pair of vice grips and turn it back on. But looking at it closely: nope. It was going to be a project. I started digging.

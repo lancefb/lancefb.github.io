@@ -2,6 +2,7 @@
 title: "A Music Room Of One's Own"
 date: 2015-09-22T20:09:00Z
 author: "L. Barker"
+featureimage: "/images/6dadd0f90a4b_IMG_0090.jpg"
 ---
 
 When I first moved in late 2002, it seemed the obvious choice for a bedroom. Now it is the obvious choice for a music room.

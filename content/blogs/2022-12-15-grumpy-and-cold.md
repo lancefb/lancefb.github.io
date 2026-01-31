@@ -3,6 +3,7 @@ title: "Grumpy and Cold"
 date: 2022-12-15T06:28:00.013Z
 tags: ["AI"]
 author: "L. Barker"
+featureimage: "/images/650fe86f5f78_coldoutside.png"
 ---
 
 I asked ChatGTP and DALL-E to generate a story and illustration about an old man being grumpy about it being too cold and snowy to go out and ride his bike.

@@ -3,6 +3,7 @@ title: "Beauty. The Invisible Embrace."
 date: 2018-08-12T00:03:00Z
 tags: ["Beauty", "Books", "Truth"]
 author: "L. Barker"
+featureimage: "/images/ef49aad708fe_beauty3.png"
 ---
 
 [![](/images/ef49aad708fe_beauty3.png)](/images/ec1ca6f8e34d_beauty3.png)

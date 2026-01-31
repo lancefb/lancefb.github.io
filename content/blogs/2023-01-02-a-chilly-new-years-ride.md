@@ -3,6 +3,7 @@ title: "A Chilly New Years Ride"
 date: 2023-01-02T06:19:00.001Z
 tags: ["Biking"]
 author: "L. Barker"
+featureimage: "/images/cb0947010f35_IMG_2341.jpeg"
 ---
 
 [![](/images/cb0947010f35_IMG_2341.jpeg)](/images/dde1ba9f5fc0_IMG_2341.jpeg)

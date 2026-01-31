@@ -2,6 +2,7 @@
 title: "Help From Friends"
 date: 2009-07-20T16:48:00Z
 author: "L. Barker"
+featureimage: "/images/66c8787a72fb_OHBefore.jpg"
 ---
 
 [![](/images/66c8787a72fb_OHBefore.jpg)](/images/e19442626c03.jpg)Before

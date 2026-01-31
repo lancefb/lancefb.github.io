@@ -1,0 +1,38 @@
+<!-- About Card -->
+<div class="flex justify-center mb-12">
+  <div class="rounded-lg border border-neutral-300 dark:border-neutral-600 bg-neutral-50 dark:bg-neutral-800 max-w-2xl w-full shadow-lg overflow-hidden">
+
+    <!-- Banner Image -->
+    <img
+      src="/images/aboutImage.jpg"
+      alt="About"
+      class="w-full h-48 object-cover">
+
+    <!-- Author Info -->
+    <div class="p-6">
+      <h1 class="text-3xl font-extrabold">
+        {{ .Site.Params.Author.name | default .Site.Title }}
+      </h1>
+      {{ with .Site.Params.Author.headline }}
+        <p class="text-lg text-neutral-500 dark:text-neutral-400 mt-1">
+          {{ . | markdownify }}
+        </p>
+      {{ end }}
+      <div class="mt-2 text-xl">
+        {{ partialCached "author-links.html" . }}
+      </div>
+
+      <!-- Homepage Content (from _index.md) -->
+      {{ with .Content }}
+        <div class="mt-4 pt-4 border-t border-neutral-200 dark:border-neutral-700 prose dark:prose-invert max-w-none">
+          {{ . }}
+        </div>
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+<!-- Recent Posts -->
+<section>
+  {{ partial "recent-articles/main.html" . }}
+</section>

@@ -3,6 +3,7 @@ title: "The Beauty In Numbers, 1b:  A circle, a spiral, a flower."
 date: 2018-11-01T15:00:00Z
 tags: ["Beauty", "Numbers", "Inspired Geometry"]
 author: "L. Barker"
+featureimage: "/images/c574bc85cb4c_sunflower.jpg"
 ---
 
 [](/images/55166c63ae25_GoldenAngle.png)[![](/images/c574bc85cb4c_sunflower.jpg)](/images/e6fb33f35bd6_sunflower.jpg)

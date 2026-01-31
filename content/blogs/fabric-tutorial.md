@@ -4,6 +4,7 @@ date: 2026-01-02
 draft: false
 tags: ["AI", "tools", "productivity", "Fabric"]
 description: "A practical guide to using Fabric's 230+ prompt patterns for content analysis, summarization, and creative work"
+featureimage: "/images/woven_fabric_illustration_500x500.jpg"
 ---
 
 ## Meet Fabric

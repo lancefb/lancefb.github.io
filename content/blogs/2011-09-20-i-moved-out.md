@@ -2,6 +2,7 @@
 title: "I Moved Out"
 date: 2011-09-20T18:59:00Z
 author: "L. Barker"
+featureimage: "/images/539609e461e2_wreck.jpg"
 ---
 
 I moved out of my house right away. Not because of the Sav-More situation and the lack of facilities, but because the place depressed me. Why? It's a filthy hovel. 

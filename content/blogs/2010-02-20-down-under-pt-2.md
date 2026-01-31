@@ -2,6 +2,7 @@
 title: "Down Under, Pt. 2"
 date: 2010-02-20T00:15:00Z
 author: "L. Barker"
+featureimage: "/images/f406ad3cf203_SANY0358.jpg"
 ---
 
 [![](/images/f406ad3cf203_SANY0358.jpg)](/images/aea38e536ec7.jpg)

@@ -3,6 +3,7 @@ title: "Why I'm Moving To Plumas County"
 date: 2002-07-30T16:57:00Z
 tags: ["Quincy"]
 author: "L. Barker"
+featureimage: "/images/554a1d49c720_ThanksG.jpg"
 ---
 
 *A Change of Scenery, and Maybe Also a Soul*

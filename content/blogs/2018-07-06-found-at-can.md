@@ -3,6 +3,7 @@ title: "Found at C.A.N."
 date: 2018-07-06T18:41:00Z
 tags: ["Truth", "Food"]
 author: "L. Barker"
+featureimage: "/images/2fea0e8692ad_IMG_1404.jpg"
 ---
 
 This seems tragic to me.

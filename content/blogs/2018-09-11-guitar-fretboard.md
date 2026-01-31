@@ -3,6 +3,7 @@ title: "Guitar fretboard"
 date: 2018-09-11T20:03:00Z
 tags: ["Music", "Projects", "Truth"]
 author: "L. Barker"
+featureimage: "/images/410e41d4616c_guitar-fretboard_copy-727797.jpg"
 ---
 
 Must ... not ... let ... this ... go!

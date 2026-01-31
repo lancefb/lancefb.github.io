@@ -2,6 +2,7 @@
 title: "An Old Project Continued, Part 2"
 date: 2020-10-10T20:14:00.059Z
 author: "L. Barker"
+featureimage: "/images/f2a51e8be960_IMG_2211.jpeg"
 ---
 
 I finally finished this electrical rebuild in the Beaver.  I ordered all the parts I thought I needed, did more research, and started cutting, splicing, and crossing my fingers.

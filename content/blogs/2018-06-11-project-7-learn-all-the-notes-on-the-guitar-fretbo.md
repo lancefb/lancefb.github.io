@@ -3,6 +3,7 @@ title: "Project #7: Learn all the notes on the guitar fretboard."
 date: 2018-06-11T17:37:00.001Z
 tags: ["Beauty", "Projects"]
 author: "L. Barker"
+featureimage: "/images/76add2a0468f_guitar-fretboard.jpg"
 ---
 
 I've been playing guitar more or less continuously for about 15 years. Amazingly and ashamedly, I haven't bothered to learn the notes on the guitar fretboard. The whole fretboard. That ends this week.

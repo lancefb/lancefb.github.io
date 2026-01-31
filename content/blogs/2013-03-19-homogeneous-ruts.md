@@ -2,6 +2,7 @@
 title: "Homogeneous Ruts"
 date: 2013-03-19T22:36:00.001Z
 author: "L. Barker"
+featureimage: "/images/92fddd2a03f5_bedifferent.jpg"
 ---
 
 I image most of us like to think we're different in so many ways.  We're absolutely incomparable on some level or another.  But are we?  Look around.  We all dress remarkably alike, especially us guys. In a culture that tolerates diversity, we don't really express it much. Why?

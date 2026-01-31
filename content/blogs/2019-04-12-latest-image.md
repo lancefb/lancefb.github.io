@@ -3,6 +3,7 @@ title: "Latest image"
 date: 2019-04-12T19:10:00Z
 tags: ["Beauty", "Numbers", "Inspired Geometry", "Art"]
 author: "L. Barker"
+featureimage: "/images/25fd62257e25_points500.png"
 ---
 
 The latest image from my generative art series was a nice surprise.

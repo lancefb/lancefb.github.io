@@ -3,6 +3,7 @@ title: "The Year of Guitar"
 date: 2018-06-10T16:48:00Z
 tags: ["Beauty", "Projects"]
 author: "L. Barker"
+featureimage: "/images/3e9d8d8f24b6_pickers.jpg"
 ---
 
 [![](/images/3e9d8d8f24b6_pickers.jpg)](/images/721d6d60641b_pickers.jpg)

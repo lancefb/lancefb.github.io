@@ -3,6 +3,7 @@ title: "A Little Black Dog Plays in the Snow. An AI story."
 date: 2023-01-03T00:29:00.002Z
 tags: ["AI"]
 author: "L. Barker"
+featureimage: "/images/77894c754e1b_doggyInTheSnow.jpg"
 ---
 
 [![](/images/77894c754e1b_doggyInTheSnow.jpg)](/images/209b220e9911_doggyInTheSnow.jpg)

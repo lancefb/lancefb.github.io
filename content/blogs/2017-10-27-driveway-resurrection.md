@@ -2,6 +2,7 @@
 title: "Driveway Resurrection"
 date: 2017-10-27T22:04:00Z
 author: "L. Barker"
+featureimage: "/images/a5806099a927_IMG_0019.jpg"
 ---
 
 I've had this 35 ft 5th wheel trailer in my driveway for 14 years!

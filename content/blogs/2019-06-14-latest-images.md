@@ -3,6 +3,7 @@ title: "Latest Images"
 date: 2019-06-14T00:45:00.001Z
 tags: ["Beauty", "Numbers", "Art", "Inspired Geometry", "Experiment"]
 author: "L. Barker"
+featureimage: "/images/e74af8b67235_MandBWPointed.jpg"
 ---
 
 This:

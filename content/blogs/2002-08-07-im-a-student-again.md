@@ -3,6 +3,7 @@ title: "I'm a Student Again"
 date: 2002-08-07T17:22:00.005Z
 tags: ["FRC", "Backstory"]
 author: "L. Barker"
+featureimage: "/images/d3d40d5ebee1_ORL.png"
 ---
 
 [![](/images/d3d40d5ebee1_ORL.png)](/images/bda2365f6b3c_ORL.png)

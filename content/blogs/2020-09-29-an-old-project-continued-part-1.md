@@ -2,6 +2,7 @@
 title: "An Old Project Continued, part 1"
 date: 2020-09-29T18:38:00.003Z
 author: "L. Barker"
+featureimage: "/images/4aad071c5c76_BeaverElecOrig.jpeg"
 ---
 
 It's been much longer than I expected but I have finally gotten around to working on the electrical rebuild of the Beaver, my ancient RV.  It was back in December of 2017 I started implementing a plan to upgrade the electrical system. I bought books, I studied, I ordered parts, I jumped in.  Then it got too cold and other projects seemed more important so I let it go. I figured it was a good enough start.

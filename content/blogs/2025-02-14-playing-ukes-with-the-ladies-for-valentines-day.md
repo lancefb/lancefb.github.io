@@ -3,6 +3,7 @@ title: "Playing Ukes With The Ladies For Valentines Day"
 date: 2025-02-14T23:30:00Z
 tags: ["Music", "Ukes", "Fun"]
 author: "L. Barker"
+featureimage: "/images/31a8a39c6e73.jpg"
 ---
 
 [![](/images/31a8a39c6e73.jpg)](/images/faf2617a6626.jpg)

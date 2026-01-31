@@ -2,6 +2,7 @@
 title: "The Man Cave Kitchen, Part 1"
 date: 2013-04-15T19:00:00.001Z
 author: "L. Barker"
+featureimage: "/images/923ea864c55a_hovel_plan_detailed.jpg"
 ---
 
 In order to move into The Hovel, I must have some kind of working kitchen. While I could simply eat out every day, assuming I actually wished to prepare any food at home, I suppose I could get by with a sink, a hot plate, and a camping cooler (been there).

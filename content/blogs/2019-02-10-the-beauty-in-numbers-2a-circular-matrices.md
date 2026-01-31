@@ -3,6 +3,7 @@ title: "The Beauty In Numbers, 2a: Circular Matrices"
 date: 2019-02-10T22:06:00.003Z
 tags: ["Beauty", "Numbers", "Inspired Geometry"]
 author: "L. Barker"
+featureimage: "/images/16261f6b338d_circMatrixT1.png"
 ---
 
 [![](/images/16261f6b338d_circMatrixT1.png)](/images/dfa0ee461537_circMatrixT1.png)

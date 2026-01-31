@@ -2,6 +2,7 @@
 title: "A Week's Work"
 date: 2010-06-21T17:30:00Z
 author: "L. Barker"
+featureimage: "/images/6a25c8cf3de3_hovel_plan_detailed.jpg"
 ---
 
 [![](/images/6a25c8cf3de3_hovel_plan_detailed.jpg)](/images/b580c68fda23_hovel_plan_detailed.jpg)

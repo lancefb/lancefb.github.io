@@ -3,6 +3,7 @@ title: "Lattes & Loitering, Episode 52:  A New Book (with a twist)"
 date: 2025-12-12
 tags: ["LattesAndLoitering", "AI", "Books", "Coffee"]
 author: "L. Barker"
+featureimage: "/images/acba93482eb3_13thingsBook.png"
 ---
 
 [![](/images/acba93482eb3_13thingsBook.png)](https://notegpt.io/books/things-mentally-strong-people-dont-do)

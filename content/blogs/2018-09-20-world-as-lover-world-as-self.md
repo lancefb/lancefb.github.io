@@ -3,6 +3,7 @@ title: "World as lover, world as self."
 date: 2018-09-20T22:12:00.001Z
 tags: ["Beauty", "Truth"]
 author: "L. Barker"
+featureimage: "/images/d4066ace916b_worldaslover.jpg"
 ---
 
 [![](/images/d4066ace916b_worldaslover.jpg)](/images/d62761a2fba6_worldaslover.jpg)

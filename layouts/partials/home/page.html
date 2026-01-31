@@ -1,0 +1,52 @@
+{{/* Background image - fixed behind content */}}
+{{ $homepageImage := resources.Get "images/gallery/string/sfSrl2.png" }}
+{{ if $homepageImage }}
+  <div class="fixed inset-x-0 top-0 -z-10">
+    <img
+      id="background-image"
+      class="nozoom mt-0 mr-0 mb-0 ml-0 h-[1000px] w-full object-cover"
+      src="{{ $homepageImage.RelPermalink }}"
+      role="presentation">
+    <div
+      class="from-neutral absolute inset-0 h-[1000px] bg-gradient-to-t to-transparent mix-blend-normal dark:from-neutral-800"></div>
+    <div
+      class="from-neutral absolute inset-0 h-[1000px] bg-gradient-to-t to-neutral-100 opacity-60 mix-blend-normal dark:from-neutral-800 dark:to-neutral-800"></div>
+  </div>
+{{ end }}
+
+{{/* Page content */}}
+<div class="relative">
+  <div style="text-align: center; margin-bottom: 1rem;">
+    <img
+      src="/images/aboutImage.jpg"
+      alt="{{ .Site.Params.Author.name | default `Author` }}"
+      style="width: 300px !important; height: 300px !important; border-radius: 50% !important; object-fit: cover !important; display: inline-block !important;">
+  </div>
+  <article class="max-w-full prose dark:prose-invert">
+    {{ with .Title }}
+      <header class="text-center">
+        <h1>{{ . | emojify }}</h1>
+      </header>
+    {{ end }}
+    <section class="w-full">{{ .Content }}</section>
+  </article>
+  <section>
+    {{ partial "recent-articles/main.html" . }}
+  </section>
+</div>
+
+{{/* Scroll blur overlay */}}
+{{ if $homepageImage }}
+  <div
+    id="background-blur"
+    class="fixed opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-xl bg-neutral-100/75 dark:bg-neutral-800/60"></div>
+  {{ $backgroundBlur := resources.Get "js/background-blur.js" }}
+  {{ $backgroundBlur = $backgroundBlur | resources.Minify | resources.Fingerprint (.Site.Params.fingerprintAlgorithm | default "sha512") }}
+  <script
+    type="text/javascript"
+    src="{{ $backgroundBlur.RelPermalink }}"
+    integrity="{{ $backgroundBlur.Data.Integrity }}"
+    data-blur-id="background-blur"
+    data-image-id="background-image"
+    data-image-url="{{ $homepageImage.RelPermalink }}"></script>
+{{ end }}

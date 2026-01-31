@@ -3,6 +3,7 @@ title: "Recent Books I've Read"
 date: 2019-01-21T17:47:00.003Z
 tags: ["Books", "Truth"]
 author: "L. Barker"
+featureimage: "/images/b82bf917bc14_The_Stranger_in_the_Woods__The_Extraordinary_Story_of_the_Last_True_Hermit__Michael_Finkel__9781101911532__Amazon_com__Books.png"
 ---
 
 [![](/images/b82bf917bc14_The_Stranger_in_the_Woods__The_Extraordinary_Story_of_the_Last_True_Hermit__Michael_Finkel__9781101911532__Amazon_com__Books.png)](/images/1ded32b2b91e_The_Stranger_in_the_Woods__The_Extraordinary_Story_of_the_Last_True_Hermit__Michael_Finkel__9781101911532__Amazon_com__Books.png)

@@ -3,6 +3,7 @@ title: "I Guess It's Not Summer Anymore"
 date: 2022-11-09T07:08:00.018Z
 tags: ["Beauty", "AI"]
 author: "L. Barker"
+featureimage: "/images/31efff986c28_68962225099__96BDB915-D956-42B4-B346-899EF0A0FD0D.jpeg"
 ---
 
 [![](/images/31efff986c28_68962225099__96BDB915-D956-42B4-B346-899EF0A0FD0D.jpeg)](/images/9d9d80a36348_68962225099__96BDB915-D956-42B4-B346-899EF0A0FD0D.jpeg)Outside my front door.

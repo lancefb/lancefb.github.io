@@ -3,6 +3,7 @@ title: "Lattes & Loitering, Episode 51: What Passes for Bliss on a Tuesday Morni
 date: 2025-02-05T05:59:00Z
 tags: ["LattesAndLoitering", "Coffee"]
 author: "L. Barker"
+featureimage: "/images/2c1e5c95f876.jpg"
 ---
 
 [![](/images/2c1e5c95f876.jpg)](/images/b44c2090c471.jpg)

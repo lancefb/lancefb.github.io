@@ -3,6 +3,7 @@ title: "What Is Music?"
 date: 2018-07-15T07:19:00Z
 tags: ["Beauty", "Music", "Truth"]
 author: "L. Barker"
+featureimage: "/images/3b9fe876b671_WhatIsMusicPic.png"
 ---
 
 [![](/images/3b9fe876b671_WhatIsMusicPic.png)](/images/9e58d3d22e8d_WhatIsMusicPic.png)

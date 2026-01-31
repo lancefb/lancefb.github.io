@@ -1,0 +1,18 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Lance Barker Home"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  dateFormat = "Jan 2, 2006"
+  description = "Entrepreneur, citizen, musician. Building things that matter."
+
+[params.author]
+  name = "Lance Barker"
+  headline = "Creator, Entrepreneur, Citizen."
+  bio = "Exploring my own creative expression and building things that help people."
+  links = [
+    { github = "https://github.com/lancefb" },
+  ]

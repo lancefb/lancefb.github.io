@@ -3,6 +3,7 @@ title: "Weekly Project: Learn A New Song (draft)"
 date: 2018-01-09T02:00:00Z
 draft: true
 author: "L. Barker"
+featureimage: "/images/8b8b9e3ea136_jeunesFilles.png"
 ---
 
 [![](/images/8b8b9e3ea136_jeunesFilles.png)](/images/c348ccfe6033_jeunesFilles.png)

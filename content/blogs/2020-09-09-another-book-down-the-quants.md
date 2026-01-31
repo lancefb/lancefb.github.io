@@ -3,6 +3,7 @@ title: "Another book down.  The Quants."
 date: 2020-09-09T19:42:00.001Z
 tags: ["Numbers", "Books"]
 author: "L. Barker"
+featureimage: "/images/bc3588d20354_The_Quants_-_book_cover.png"
 ---
 
 I just finished this one.

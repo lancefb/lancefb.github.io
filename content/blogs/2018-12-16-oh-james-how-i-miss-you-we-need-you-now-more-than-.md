@@ -3,6 +3,7 @@ title: "Oh, James, how I miss you. We need you now, more than ever. "
 date: 2018-12-16T02:57:00.001Z
 tags: ["Beauty", "Truth"]
 author: "L. Barker"
+featureimage: "/images/314cee7ec4cc_James-Hillman2010.jpg"
 ---
 
 [![](/images/314cee7ec4cc_James-Hillman2010.jpg)](/images/22a0731e73fd_James-Hillman2010.jpg)

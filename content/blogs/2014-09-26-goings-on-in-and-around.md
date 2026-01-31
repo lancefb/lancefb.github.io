@@ -2,6 +2,7 @@
 title: "Goings on in and around ..."
 date: 2014-09-26T19:49:00Z
 author: "L. Barker"
+featureimage: "/images/7e0870d0a70e_IMG_0310.jpg"
 ---
 
 Hanging out with the pups

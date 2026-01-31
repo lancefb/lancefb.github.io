@@ -3,6 +3,7 @@ title: "Joseph and the Sky That Broke:   Masterpieces of a Different Sort - #7"
 date: 2026-01-15
 tags: ["Art", "Found Art", "Family"]
 author: "L. Barker"
+featureimage: "/images/474849126971_Dustbowl2.png"
 ---
 
 [![](/images/474849126971_Dustbowl2.png)](/images/4af417a76ce9_Dustbowl2.png)

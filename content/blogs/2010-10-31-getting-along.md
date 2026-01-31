@@ -2,6 +2,7 @@
 title: "Getting Along?"
 date: 2010-10-31T19:12:00Z
 author: "L. Barker"
+featureimage: "/images/5a3ec6fc380b_SANY0710.jpg"
 ---
 
 [![](/images/5a3ec6fc380b_SANY0710.jpg)](/images/cd995b001b35_SANY0710.jpg)

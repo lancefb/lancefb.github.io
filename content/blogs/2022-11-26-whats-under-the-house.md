@@ -3,6 +3,7 @@ title: "What's Under The House?"
 date: 2022-11-26T07:30:00.030Z
 tags: ["AI"]
 author: "L. Barker"
+featureimage: "/images/0052914629a7_What_20under_20the_20house.png"
 ---
 
 It's totally my fault for not buttoning up the house. I have several places where any critter can get access to the crawl space. So, they've moved in whoever they are, and BB is going crazy trying to figure out who/what it is. I think she is worried they may make their way inside.

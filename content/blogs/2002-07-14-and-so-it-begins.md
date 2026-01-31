@@ -3,6 +3,7 @@ title: "And So It Begins. "
 date: 2002-07-14T07:30:00Z
 tags: ["Quincy", "Experiment", "Life Change"]
 author: "L. Barker"
+featureimage: "/images/cf137d1de682_Qhouse.jpg"
 ---
 
 *The Whim That Stuck*

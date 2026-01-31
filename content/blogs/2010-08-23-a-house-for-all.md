@@ -2,6 +2,7 @@
 title: "A House For All"
 date: 2010-08-23T18:42:00Z
 author: "L. Barker"
+featureimage: "/images/abe15b450f45_KlezySml.jpg"
 ---
 
 When I first bought this place, it was a tragic wreck. But I didn't care.  I was actually considering stapling AstroTurf to the floor and walls, adopting ten dogs from the pound and turning it into a big playhouse with balls and sticks, plenty of good food and fun - lending credence to the term rough-housing. It was going to be a space devoted to dogs, guitars, and beer.

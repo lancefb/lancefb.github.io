@@ -2,6 +2,7 @@
 title: "What I've Been Up To"
 date: 2017-09-20T22:32:00Z
 author: "L. Barker"
+featureimage: "/images/977934437665_WIBUT_Siding.jpg"
 ---
 
 Long time no post, eh? But I've been busy, trust me. Here's a little bit of what I've been up to:

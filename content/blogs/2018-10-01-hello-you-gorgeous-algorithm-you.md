@@ -3,6 +3,7 @@ title: "Hello, you gorgeous algorithm you."
 date: 2018-10-01T18:09:00Z
 tags: ["Beauty", "Numbers", "Truth"]
 author: "L. Barker"
+featureimage: "/images/a824c7fc2d45_GoldAngle.png"
 ---
 
 Can there be beauty in math?  I think so. I want to experiment with this idea for awhile. So, here goes a new series: The Beauty In Numbers. I'm going to off on a tangent (!) and study mathematics and art together.

@@ -2,15 +2,8 @@
 title: "Learning To Play Piano At 70"
 date: 2026-01-23
 draft: false
-showInHome: true
-image: "/images/piano-journey.jpg"
-badges:
-  - "AI"
-  - "Music"
-  - "Learning"
-links:
-  - icon: fab fa-github
-    url: https://github.com/lancefb/piano-learning-tools
+featureimage: "/images/piano-journey.jpg"
+tags: ["AI", "Music", "Learning"]
 ---
 
 ## Overview

@@ -3,6 +3,7 @@ title: "Back On Stage (Maybe)"
 date: 2025-01-10T22:22:00Z
 tags: ["Theater"]
 author: "L. Barker"
+featureimage: "/images/298f00220ad2_shrek2.png"
 ---
 
 [![](/images/298f00220ad2_shrek2.png)](/images/f113921b0d6d_shrek2.png)

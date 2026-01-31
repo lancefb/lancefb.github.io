@@ -3,6 +3,7 @@ title: "Found at C.A.N."
 date: 2019-01-03T18:44:00Z
 tags: ["Truth", "Food"]
 author: "L. Barker"
+featureimage: "/images/c9067d7ccd66_chipotle.jpg"
 ---
 
 Found a can of this at C.A.N.:

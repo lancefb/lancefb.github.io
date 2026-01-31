@@ -3,6 +3,7 @@ title: "Barney Help"
 date: 2011-05-26T01:28:00Z
 tags: ["Projects", "Hovel"]
 author: "L. Barker"
+featureimage: "/images/652d167c031a_SANY0761.jpg"
 ---
 
 Barney lends a hand!

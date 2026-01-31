@@ -2,6 +2,7 @@
 title: "Weekly Project #6: Right and left hand separation continued"
 date: 2017-12-26T04:06:00Z
 author: "L. Barker"
+featureimage: "/images/290ac5e3c470_brain-puzzle.jpg"
 ---
 
 [![](/images/290ac5e3c470_brain-puzzle.jpg)](/images/e1989fb0ce99_brain-puzzle.jpg)

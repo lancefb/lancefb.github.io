@@ -3,6 +3,7 @@ title: "Weekly Projects? Taking A Break."
 date: 2018-01-22T23:21:00Z
 tags: ["Experiment", "Projects", "Truth"]
 author: "L. Barker"
+featureimage: "/images/b08da477bbc8_Hiatus.jpg"
 ---
 
 [![](/images/b08da477bbc8_Hiatus.jpg)](/images/0898ab08b9eb_Hiatus.jpg)

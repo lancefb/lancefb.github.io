@@ -2,6 +2,7 @@
 title: "Weekly Project #4: Chord Inversions And A Performance"
 date: 2017-12-11T20:43:00Z
 author: "L. Barker"
+featureimage: "/images/7a8c58d4d1e4_FMajRoot.gif"
 ---
 
 This week's project is of a musical nature. And it has two parts, somewhat unrelated.

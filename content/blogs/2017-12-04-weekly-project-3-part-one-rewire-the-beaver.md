@@ -2,6 +2,7 @@
 title: "Weekly Project #3 (Part One): Rewire the Beaver."
 date: 2017-12-04T20:03:00.001Z
 author: "L. Barker"
+featureimage: "/images/d38d0bc230d2_the_beaver.jpg"
 ---
 
 For this week's project I'm going to begin rewiring the Beaver! The Beaver is my 1973 Dodge RV. It is my mobile hovel away from the hovel. I have never done anything like this before and I'm looking forward to whacking on this thing.

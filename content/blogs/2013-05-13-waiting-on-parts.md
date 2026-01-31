@@ -2,6 +2,7 @@
 title: "Waiting On Parts"
 date: 2013-05-13T03:35:00.001Z
 author: "L. Barker"
+featureimage: "/images/f21cafed8b00_blogger-image--1952173194.jpg"
 ---
 
 Before I get a real water heater, I'm rigging up a solar variety - a very simple one - using a black hose on the roof. Of course this is nothing new. It's done all over the world and makes such sense. Why wouldn't you want to cut pollution and save money by letting the sun heat, or pre-heat your water?

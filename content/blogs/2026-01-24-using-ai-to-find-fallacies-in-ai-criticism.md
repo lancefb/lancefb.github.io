@@ -3,6 +3,7 @@ title: "Using AI to Find Fallacies in AI Criticism"
 date: 2026-01-24T10:00:00Z
 tags: ["AI", "Critical Thinking", "Logic", "Meta"]
 author: "L. Barker"
+featureimage: "/images/ai-fallacies.jpg"
 ---
 
 [![](/images/ai-fallacies.jpg)](/images/ai-fallacies.jpg)

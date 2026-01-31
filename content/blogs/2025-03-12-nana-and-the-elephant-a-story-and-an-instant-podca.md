@@ -3,6 +3,7 @@ title: "Nana and the Elephant. A Story and an Instant Podcast."
 date: 2025-03-12T06:00:00Z
 tags: ["Throwback", "Barkers", "AI", "Family"]
 author: "L. Barker"
+featureimage: "/images/4f349e9c5800_NanaElephant.webp"
 ---
 
 [![](/images/4f349e9c5800_NanaElephant.webp)](/images/04ad8c7ffc74_NanaElephant.webp)

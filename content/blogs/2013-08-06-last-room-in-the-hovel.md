@@ -2,6 +2,7 @@
 title: "Last Room In The Hovel"
 date: 2013-08-06T22:08:00.002Z
 author: "L. Barker"
+featureimage: "/images/f9b377c79ca3_photo.jpg"
 ---
 
 As Summer winds down, I want to reflect on where I am with this house of mine. It's been a busy 6-8 weeks of work, starting with mudding, texturing, then painting the walls of the living room where I sleep. Next came the decision to pull out the carpet and lay down flooring that matched the kitchen.  Then I built a bed (more on that later).

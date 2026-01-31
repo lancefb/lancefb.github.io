@@ -2,6 +2,7 @@
 title: "Weekly Project #5: Right and Left Hand Separation"
 date: 2017-12-18T23:10:00.002Z
 author: "L. Barker"
+featureimage: "/images/4941892ae5bd_splitBrain.jpg"
 ---
 
 [![](/images/4941892ae5bd_splitBrain.jpg)](/images/25df2b670e0c_splitBrain.jpg)

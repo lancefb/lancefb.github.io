@@ -2,6 +2,7 @@
 title: "Homown Hell?"
 date: 2013-03-28T21:05:00.001Z
 author: "L. Barker"
+featureimage: "/images/32cceea414a9_HomownComic.jpg"
 ---
 
 [![](/images/32cceea414a9_HomownComic.jpg)](/images/5888fca728a3_HomownComic.jpg)
