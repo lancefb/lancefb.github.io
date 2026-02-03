@@ -6,6 +6,8 @@ featureimage: "/images/piano-journey.jpg"
 tags: ["AI", "Music", "Learning"]
 ---
 
+[![](/images/piano-journey.jpg)](/images/piano-journey.jpg)
+
 ## Overview
 
 I'm learning to play piano at age 70. It’s something I’ve always wanted to do — and now, I’m going for it.
