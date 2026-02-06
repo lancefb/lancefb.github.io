@@ -3,8 +3,12 @@ title: "Markdown Learning Cheatsheet"
 date: 2025-04-30
 draft: false
 tags: ["markdown", "writing", "reference"]
+featureimage: "/images/MDcheat.webp"
 description: "A quick reference for learning Markdown, the lightweight markup language used for formatting text on the web"
 ---
+
+[![](/images/MDcheat.webp)](/images/MDcheat.webp)
+
 ## Just in case you always wanted a Markdown Guide ##
 
 A quick reference for learning **Markdown**, the lightweight markup language used for formatting text on the web (e.g., GitHub, Reddit, and many docs).
