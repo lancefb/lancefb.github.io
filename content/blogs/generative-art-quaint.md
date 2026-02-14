@@ -4,10 +4,10 @@ date: 2026-02-02
 draft: false
 tags: ["Art", "AI", "Generative Art", "Reflection"]
 description: "After years of learning to make art with code, AI makes it feel almost obsolete. Almost."
-featureimage: "/images/generative-art-quaint_500x500.png"
+featureimage: "/images/generative-art-quaint_500x500.webp"
 ---
 
-[![](/images/generative-art-quaint_500x500.png)](/images/generative-art-quaint_500x500.png)
+[![](/images/generative-art-quaint_500x500.webp)](/images/generative-art-quaint_500x500.webp)
 
 *Wherever there is number, there is beauty.*
 

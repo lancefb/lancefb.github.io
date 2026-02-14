@@ -3,10 +3,10 @@ title: "Weekly Project: Learn A New Song (draft)"
 date: 2018-01-09T02:00:00Z
 draft: true
 author: "L. Barker"
-featureimage: "/images/8b8b9e3ea136_jeunesFilles.png"
+featureimage: "/images/8b8b9e3ea136_jeunesFilles.webp"
 ---
 
-[![](/images/8b8b9e3ea136_jeunesFilles.png)](/images/c348ccfe6033_jeunesFilles.png)
+[![](/images/8b8b9e3ea136_jeunesFilles.webp)](/images/c348ccfe6033_jeunesFilles.webp)
 
 This week's project is to learn a new song. I'm going to learn Jeunes Filles De La Campagne,  a traditional cajun tune played by Balfa, Beausoleil and many others.
 

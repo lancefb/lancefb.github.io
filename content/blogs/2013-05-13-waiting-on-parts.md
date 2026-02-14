@@ -2,7 +2,7 @@
 title: "Waiting On Parts"
 date: 2013-05-13T03:35:00.001Z
 author: "L. Barker"
-featureimage: "/images/f21cafed8b00_blogger-image--1952173194.jpg"
+featureimage: "/images/f21cafed8b00_blogger-image--1952173194.webp"
 ---
 
 Before I get a real water heater, I'm rigging up a solar variety - a very simple one - using a black hose on the roof. Of course this is nothing new. It's done all over the world and makes such sense. Why wouldn't you want to cut pollution and save money by letting the sun heat, or pre-heat your water?
@@ -11,4 +11,4 @@ But, I didn't have all the parts I needed. They should be here mid-week and I sh
 
 Later on when I obtain the right electric water heater, I'll use the loop to pre-heat water. 
 
-[![](/images/f21cafed8b00_blogger-image--1952173194.jpg)](/images/f21cafed8b00_blogger-image--1952173194.jpg)
+[![](/images/f21cafed8b00_blogger-image--1952173194.webp)](/images/f21cafed8b00_blogger-image--1952173194.webp)

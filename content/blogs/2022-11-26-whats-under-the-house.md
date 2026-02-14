@@ -3,14 +3,14 @@ title: "What's Under The House?"
 date: 2022-11-26T07:30:00.030Z
 tags: ["AI"]
 author: "L. Barker"
-featureimage: "/images/0052914629a7_What_20under_20the_20house.png"
+featureimage: "/images/0052914629a7_What_20under_20the_20house.webp"
 ---
 
 It's totally my fault for not buttoning up the house. I have several places where any critter can get access to the crawl space. So, they've moved in whoever they are, and BB is going crazy trying to figure out who/what it is. I think she is worried they may make their way inside.
 
 So, I asked ChatGTP and DALL-E to generate some text and illustrations about it.
 
-[![](/images/0052914629a7_What_20under_20the_20house.png)](/images/545f4c88b018_What_20under_20the_20house.png)
+[![](/images/0052914629a7_What_20under_20the_20house.webp)](/images/545f4c88b018_What_20under_20the_20house.webp)
 
 As you lie in bed, trying to get some much-needed sleep, your dog's incessant whining grows louder and louder. You try to ignore it at first, but the high-pitched sound is driving you insane.
 
@@ -24,4 +24,4 @@ You let out a sigh of relief, but as you start to laugh at your own absurdity, y
 
 You can't help but chuckle at the silly animal's antics as you go back to bed, finally able to get some rest thanks to your faithful (and slightly paranoid) furry friend.
 
-[![](/images/a58331368825_racoonEyes.png)](/images/6111e5475f63_racoonEyes.png)
+[![](/images/a58331368825_racoonEyes.webp)](/images/6111e5475f63_racoonEyes.webp)

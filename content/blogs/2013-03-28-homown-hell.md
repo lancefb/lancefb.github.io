@@ -2,10 +2,10 @@
 title: "Homown Hell?"
 date: 2013-03-28T21:05:00.001Z
 author: "L. Barker"
-featureimage: "/images/32cceea414a9_HomownComic.jpg"
+featureimage: "/images/32cceea414a9_HomownComic.webp"
 ---
 
-[![](/images/32cceea414a9_HomownComic.jpg)](/images/5888fca728a3_HomownComic.jpg)
+[![](/images/32cceea414a9_HomownComic.webp)](/images/5888fca728a3_HomownComic.webp)
 
 So, you want to own the home you live in?  You're not alone, but things are changing rapidly. Big decision and it can be painful to change your mind.  I can't give you any help here except to say that I personally prefer to own my home, which is astonishing considering I don't even live in the home I own - no one does, because as you know, it's an empty wreck (a FH).
 
@@ -18,12 +18,12 @@ US homeownership rates
 
 But Freddie Mac seems oblivious.
 
-[![](/images/c8a4bca48c6c_FrMacTeaser.png)](/images/4d52a15fad9f_FrMacTeaser.png)
+[![](/images/c8a4bca48c6c_FrMacTeaser.webp)](/images/4d52a15fad9f_FrMacTeaser.webp)
 From freddiemac.com
 
 California, it turns out, has the lowest homeownership rate in the country, save one.  Here's what our neighbors look like:
 
-[![](/images/5a0a1d31b05a_homorateCON.png)](/images/72ad3d575707_homorateCON.png)
+[![](/images/5a0a1d31b05a_homorateCON.webp)](/images/72ad3d575707_homorateCON.webp)
 Homown rate in California, Oregon and Nevada
 
 The hovel is my second home, having sold my first years ago. My perspective is that buying a house and working on it can be pure hell, or it can be wonderful.  For me it's been mostly hell, but on the other hand, I'm not done. The whole story has yet to be told.

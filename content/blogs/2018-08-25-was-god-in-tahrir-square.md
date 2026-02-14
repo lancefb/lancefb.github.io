@@ -3,10 +3,10 @@ title: "Was God In Tahrir Square?"
 date: 2018-08-25T17:15:00Z
 tags: ["Truth"]
 author: "L. Barker"
-featureimage: "/images/71dedf6b3368_Tahrir_Square_2_9_11.jpg"
+featureimage: "/images/71dedf6b3368_Tahrir_Square_2_9_11.webp"
 ---
 
-[![](/images/71dedf6b3368_Tahrir_Square_2_9_11.jpg)](/images/5d8cf3f72c95_Tahrir_Square_2_9_11.jpg)
+[![](/images/71dedf6b3368_Tahrir_Square_2_9_11.webp)](/images/5d8cf3f72c95_Tahrir_Square_2_9_11.webp)
 
 Was She chanting for Bread? Was He shouting “Liberty”? Was It demanding Social Justice?
 

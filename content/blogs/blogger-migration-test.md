@@ -3,10 +3,10 @@ title: "Migrating Blog Platforms"
 date: 2025-12-25
 draft: false
 tags: ["migration", "blogging"]
-featureimage: "/images/blogConv.jpg"
+featureimage: "/images/blogConv.webp"
 ---
 
-[![](/images/blogConv.jpg)](/images/blogConv.jpg)
+[![](/images/blogConv.webp)](/images/blogConv.webp)
 
 
 I'm migrating from Blogger to Hugo to get full control over my content with MD

@@ -3,10 +3,10 @@ title: "ARCHAIC TORSO OF APOLLO"
 date: 2018-11-24T04:31:00Z
 tags: ["Beauty", "Poetry", "Truth"]
 author: "L. Barker"
-featureimage: "/images/86586eb3a514_apolloLyre.jpg"
+featureimage: "/images/86586eb3a514_apolloLyre.webp"
 ---
 
-[![](/images/86586eb3a514_apolloLyre.jpg)](/images/ff2664034c9a_apolloLyre.jpg)
+[![](/images/86586eb3a514_apolloLyre.webp)](/images/ff2664034c9a_apolloLyre.webp)
 
 We cannot know his legendary head
 

@@ -3,10 +3,10 @@ title: "Project #8 (Part One): Scales on guitar"
 date: 2018-06-18T23:31:00.001Z
 tags: ["Beauty", "Music", "Projects"]
 author: "L. Barker"
-featureimage: "/images/85dc5c0a2cde_acoustic-guitar.png"
+featureimage: "/images/85dc5c0a2cde_acoustic-guitar.webp"
 ---
 
-[![](/images/85dc5c0a2cde_acoustic-guitar.png)](/images/d652f9ad47ed_acoustic-guitar.png)
+[![](/images/85dc5c0a2cde_acoustic-guitar.webp)](/images/d652f9ad47ed_acoustic-guitar.webp)
 
 Again, weird that I haven't learned this by now. So, here we go. First I want to learn the Pentatonic Scales all over the neck.
 

@@ -3,10 +3,10 @@ title: "The Beauty In Numbers, 1a: Plotting a circle."
 date: 2018-10-04T06:36:00.002Z
 tags: ["Beauty", "Numbers", "Inspired Geometry"]
 author: "L. Barker"
-featureimage: "/images/88db50ea5faa_500px-Pythagorean.png"
+featureimage: "/images/88db50ea5faa_500px-Pythagorean.webp"
 ---
 
-[![](/images/88db50ea5faa_500px-Pythagorean.png)](/images/92df208404e2_500px-Pythagorean.png)
+[![](/images/88db50ea5faa_500px-Pythagorean.webp)](/images/92df208404e2_500px-Pythagorean.webp)
 
 Let's use math to draw pictures, shall we? There is a wonderful world out there of representing patterns in nature, especially flowers, in mathematical terms. Ever gazed into a sunflower? I hope so. I'm learning and exploring as I go along here, so I'll start with simple circle plots and move on from there. But where to start?  How about Pythagorus?
 
@@ -18,9 +18,9 @@ where c represents the length of the hypotenuse and a and b the lengths of the t
 
 But how do we turn this into compelling pictures? We can do a lot with this if we use software programs to draw or plot, say, circles. A lot of beautiful geometric patterns come out of circles, including patterns that represent the arrangement of petals and stems in flowers. But how do we get circles out of these triangles? By expressing the Pythagorean theorem in terms of trigonometric functions.
 
-[![](/images/444282a8fd26_Trig_Functions.png)](/images/4f97c61d2bac_Trig_Functions.png)
+[![](/images/444282a8fd26_Trig_Functions.webp)](/images/4f97c61d2bac_Trig_Functions.webp)
 
-[![](/images/42f2ba54cd2a_Unit_circle.jpg)](/images/08544a1b5510_Unit_circle.jpg)
+[![](/images/42f2ba54cd2a_Unit_circle.webp)](/images/08544a1b5510_Unit_circle.webp)
 
 We need to move to trigonometry because we need to move beyond solving triangles. Trigonometry give use a mathematical description of our physical world, of things that rotate or vibrate, such as light, sound, the paths of planets about the sun or satellites about the earth. We have to have angles of any size, and to extend to them the meanings of the trigonometric functions.
 
@@ -44,7 +44,7 @@ ggplot(df)
 
  Running this code results in this:
 
-[![](/images/8331993a8818_PhyPlot1.png)](/images/7a27e4785e5d_PhyPlot1.png)
+[![](/images/8331993a8818_PhyPlot1.webp)](/images/7a27e4785e5d_PhyPlot1.webp)
 
 Very basic, yes? But with various enhancements and tweaks to the code, we can begin to get images that look like the geometry seen in flowers.
 

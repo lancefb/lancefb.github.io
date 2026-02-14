@@ -3,10 +3,10 @@ title: "A Little Black Dog Plays in the Snow. An AI story."
 date: 2023-01-03T00:29:00.002Z
 tags: ["AI"]
 author: "L. Barker"
-featureimage: "/images/77894c754e1b_doggyInTheSnow.jpg"
+featureimage: "/images/77894c754e1b_doggyInTheSnow.webp"
 ---
 
-[![](/images/77894c754e1b_doggyInTheSnow.jpg)](/images/209b220e9911_doggyInTheSnow.jpg)
+[![](/images/77894c754e1b_doggyInTheSnow.webp)](/images/209b220e9911_doggyInTheSnow.webp)
  
 
 There once was a little black dog named Beatrice who had spent most of her life living in a shelter. She was a sweet and gentle dog, but unfortunately, no one had ever come to adopt her.

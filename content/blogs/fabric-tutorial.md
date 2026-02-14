@@ -4,12 +4,12 @@ date: 2026-01-02
 draft: false
 tags: ["AI", "tools", "productivity", "Fabric"]
 description: "A practical guide to using Fabric's 230+ prompt patterns for content analysis, summarization, and creative work"
-featureimage: "/images/woven_fabric_illustration_500x500.jpg"
+featureimage: "/images/woven_fabric_illustration_500x500.webp"
 ---
 
 ## Meet Fabric
 
-[![](/images/woven_fabric_illustration_500x500.jpg)](/images/woven_fabric_illustration_500x500.jpg)
+[![](/images/woven_fabric_illustration_500x500.webp)](/images/woven_fabric_illustration_500x500.webp)
 
 **Fabric** is an open-source tool by Daniel Miessler that provides 230+ reusable AI prompt patterns for common tasks like summarizing content, extracting insights, improving writing, and more.
 

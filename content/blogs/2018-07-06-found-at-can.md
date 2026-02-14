@@ -3,7 +3,7 @@ title: "Found at C.A.N."
 date: 2018-07-06T18:41:00Z
 tags: ["Truth", "Food"]
 author: "L. Barker"
-featureimage: "/images/2fea0e8692ad_IMG_1404.jpg"
+featureimage: "/images/2fea0e8692ad_IMG_1404.webp"
 ---
 
 This seems tragic to me.
@@ -18,4 +18,4 @@ Per capita waste by consumers is between 95-115 kg a year in Europe and North Am
 
 **[Here's the source](http://www.fao.org/save-food/resources/keyfindings/en/)**.
 
-[![](/images/2fea0e8692ad_IMG_1404.jpg)](/images/a89e343091ed_IMG_1404.jpg)
+[![](/images/2fea0e8692ad_IMG_1404.webp)](/images/a89e343091ed_IMG_1404.webp)

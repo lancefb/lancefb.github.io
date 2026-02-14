@@ -3,10 +3,10 @@ title: "The Year of Guitar"
 date: 2018-06-10T16:48:00Z
 tags: ["Beauty", "Projects"]
 author: "L. Barker"
-featureimage: "/images/3e9d8d8f24b6_pickers.jpg"
+featureimage: "/images/3e9d8d8f24b6_pickers.webp"
 ---
 
-[![](/images/3e9d8d8f24b6_pickers.jpg)](/images/721d6d60641b_pickers.jpg)
+[![](/images/3e9d8d8f24b6_pickers.webp)](/images/721d6d60641b_pickers.webp)
 
 I've been avoiding this. I have had a love-hate relationship with the guitar for years. I've been playing it because it is easy and there is something undeniably beguiling about the instrument. But everyone plays guitar and it is so difficult to distinguish yourself among the crowd.
 

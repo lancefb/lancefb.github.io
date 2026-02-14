@@ -3,10 +3,10 @@ title: "Joseph and the Sky That Broke:   Masterpieces of a Different Sort - #7"
 date: 2026-01-15
 tags: ["Art", "Found Art", "Family"]
 author: "L. Barker"
-featureimage: "/images/474849126971_Dustbowl2.png"
+featureimage: "/images/474849126971_Dustbowl2.webp"
 ---
 
-[![](/images/474849126971_Dustbowl2.png)](/images/4af417a76ce9_Dustbowl2.png)
+[![](/images/474849126971_Dustbowl2.webp)](/images/4af417a76ce9_Dustbowl2.webp)
  
 
 *I found this one at the dump. I reminded me of my great-grandfather, Joe and his eldest son - my grandfather, Forrest. The painting is real and the story is true-ish.*

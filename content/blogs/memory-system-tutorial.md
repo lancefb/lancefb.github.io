@@ -4,12 +4,12 @@ date: 2026-01-21
 draft: false
 tags: ["AI", "productivity", "knowledge-management", "PAI"]
 description: "How to set up a markdown-based memory system that your AI assistant can read and write to directly"
-featureimage: "/images/desk_papers_notes_500x500.jpg"
+featureimage: "/images/desk_papers_notes_500x500.webp"
 ---
 
 ## Got Notes? ##
 
-[![](/images/desk_papers_notes_500x500.jpg)](/images/desk_papers_notes_500x500.jpg)
+[![](/images/desk_papers_notes_500x500.webp)](/images/desk_papers_notes_500x500.webp)
 
 Most note-taking systems are designed for humans. You write notes, organize them, and hope you can find them later. But what if your AI assistant could be a full participant—reading your notes for context, writing new ones, and helping you build a knowledge base over time?
 

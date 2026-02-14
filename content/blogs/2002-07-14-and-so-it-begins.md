@@ -3,7 +3,7 @@ title: "And So It Begins. "
 date: 2002-07-14T07:30:00Z
 tags: ["Quincy", "Experiment", "Life Change"]
 author: "L. Barker"
-featureimage: "/images/cf137d1de682_Qhouse.jpg"
+featureimage: "/images/cf137d1de682_Qhouse.webp"
 ---
 
 *The Whim That Stuck*
@@ -12,7 +12,7 @@ Well, I did it.
 
 I bought a house. In Quincy, California.
 
-[![](/images/cf137d1de682_Qhouse.jpg)](/images/063a7c41feb7_Qhouse.jpg)
+[![](/images/cf137d1de682_Qhouse.webp)](/images/063a7c41feb7_Qhouse.webp)
 
 It has a creaky entry, a roof that looks like it’s held together with good intentions, and a view that will inspire absolutely no one.
 

@@ -3,10 +3,10 @@ title: "Oh, James, how I miss you. We need you now, more than ever. "
 date: 2018-12-16T02:57:00.001Z
 tags: ["Beauty", "Truth"]
 author: "L. Barker"
-featureimage: "/images/314cee7ec4cc_James-Hillman2010.jpg"
+featureimage: "/images/314cee7ec4cc_James-Hillman2010.webp"
 ---
 
-[![](/images/314cee7ec4cc_James-Hillman2010.jpg)](/images/22a0731e73fd_James-Hillman2010.jpg)
+[![](/images/314cee7ec4cc_James-Hillman2010.webp)](/images/22a0731e73fd_James-Hillman2010.webp)
 
 I can't very easily put to words my regard for this man. I'm still reading, discovering, exalting in, and being astonished by his work. I'll let some of the words of others that have experienced his thoughts live here:
 

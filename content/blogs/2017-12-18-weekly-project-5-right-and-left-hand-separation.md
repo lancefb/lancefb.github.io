@@ -2,10 +2,10 @@
 title: "Weekly Project #5: Right and Left Hand Separation"
 date: 2017-12-18T23:10:00.002Z
 author: "L. Barker"
-featureimage: "/images/4941892ae5bd_splitBrain.jpg"
+featureimage: "/images/4941892ae5bd_splitBrain.webp"
 ---
 
-[![](/images/4941892ae5bd_splitBrain.jpg)](/images/25df2b670e0c_splitBrain.jpg)
+[![](/images/4941892ae5bd_splitBrain.webp)](/images/25df2b670e0c_splitBrain.webp)
 
 This is a biggie for me. As an adult learner, I don't have the benefit of a young, plastic brain to have learned the "dual processing" that is achieved when a young person becomes proficient on the piano.
 

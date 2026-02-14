@@ -8,20 +8,20 @@ description: "Generative art - String Series visualizations"
 Mathematical visualizations exploring string theory and chaotic attractors.
 
 {{< gallery >}}
-  <img src="/images/gallery/string/cAttrP500A9s2Str.png" />
-  <img src="/images/gallery/string/cAttrP1000A5Str.png" />
-  <img src="/images/gallery/string/aizawaP7500Str.png" />
-  <img src="/images/gallery/string/lorenzP2500Str.png" />
-  <img src="/images/gallery/string/lfbHilTst.png" />
-  <img src="/images/gallery/string/lfbSimpleTst.png" />
-  <img src="/images/gallery/string/MandBW.png" />
-  <img src="/images/gallery/string/sH1.png" />
-  <img src="/images/gallery/string/CocleoidPncl.png" />
-  <img src="/images/gallery/string/Hill2Pncl.png" />
-  <img src="/images/gallery/string/sfSrl2.png" />
-  <img src="/images/gallery/string/p250x96.png" />
-  <img src="/images/gallery/string/sfSrl3.png" />
-  <img src="/images/gallery/string/simpHarm03.png" />
-  <img src="/images/gallery/string/simpHarm09.png" />
-  <img src="/images/gallery/string/simpHarm12.png" />
+  <img src="/images/gallery/string/cAttrP500A9s2Str.webp" />
+  <img src="/images/gallery/string/cAttrP1000A5Str.webp" />
+  <img src="/images/gallery/string/aizawaP7500Str.webp" />
+  <img src="/images/gallery/string/lorenzP2500Str.webp" />
+  <img src="/images/gallery/string/lfbHilTst.webp" />
+  <img src="/images/gallery/string/lfbSimpleTst.webp" />
+  <img src="/images/gallery/string/MandBW.webp" />
+  <img src="/images/gallery/string/sH1.webp" />
+  <img src="/images/gallery/string/CocleoidPncl.webp" />
+  <img src="/images/gallery/string/Hill2Pncl.webp" />
+  <img src="/images/gallery/string/sfSrl2.webp" />
+  <img src="/images/gallery/string/p250x96.webp" />
+  <img src="/images/gallery/string/sfSrl3.webp" />
+  <img src="/images/gallery/string/simpHarm03.webp" />
+  <img src="/images/gallery/string/simpHarm09.webp" />
+  <img src="/images/gallery/string/simpHarm12.webp" />
 {{< /gallery >}}

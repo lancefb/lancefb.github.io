@@ -3,10 +3,10 @@ title: "Here's To A Weird July"
 date: 2018-08-01T00:54:00Z
 tags: ["Truth"]
 author: "L. Barker"
-featureimage: "/images/7e664f0f20fa_Weird_July.jpg"
+featureimage: "/images/7e664f0f20fa_Weird_July.webp"
 ---
 
-[![](/images/7e664f0f20fa_Weird_July.jpg)](/images/26fca23e845b_Weird_July.jpg)
+[![](/images/7e664f0f20fa_Weird_July.webp)](/images/26fca23e845b_Weird_July.webp)
 
 This is the last day in a month you will never see again in your lifetime.
 

@@ -3,10 +3,10 @@ title: "Innocent Villagers"
 date: 2018-08-04T04:39:00Z
 tags: ["Beauty"]
 author: "L. Barker"
-featureimage: "/images/a963f9c6ebc7_IMG_0709.jpg"
+featureimage: "/images/a963f9c6ebc7_IMG_0709.webp"
 ---
 
-[![](/images/a963f9c6ebc7_IMG_0709.jpg)](/images/5fce7815ed01_IMG_0709.jpg)
+[![](/images/a963f9c6ebc7_IMG_0709.webp)](/images/5fce7815ed01_IMG_0709.webp)
 
 *We, too, cry falling to the edge of*
 

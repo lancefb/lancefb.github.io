@@ -3,10 +3,10 @@ title: "Dog Walk In The Rain"
 date: 2025-03-31T05:46:00Z
 tags: ["Family", "Poetry"]
 author: "L. Barker"
-featureimage: "/images/1ce847cc1d75_walkInTheRain.jpg"
+featureimage: "/images/1ce847cc1d75_walkInTheRain.webp"
 ---
 
-[![](/images/1ce847cc1d75_walkInTheRain.jpg)](/images/65804a60aa25_walkInTheRain.jpg)
+[![](/images/1ce847cc1d75_walkInTheRain.webp)](/images/65804a60aa25_walkInTheRain.webp)
 
 Rainy all day, but they need their exercise.
 

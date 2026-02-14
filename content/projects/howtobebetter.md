@@ -3,7 +3,7 @@ title: "howtobebetter.ai"
 date: 2026-02-03
 draft: false
 showInHome: true
-featureimage: "/images/howtobebetter.jpg"
+featureimage: "/images/howtobebetter.webp"
 tags: ["AI", "Education", "Personal Growth"]
 badges:
   - "AI"
@@ -14,7 +14,7 @@ links:
     url: https://howtobebetter.ai
 ---
 
-[![](/images/howtobebetter.jpg)](/images/howtobebetter.jpg)
+[![](/images/howtobebetter.webp)](/images/howtobebetter.webp)
 
 ## Overview
 

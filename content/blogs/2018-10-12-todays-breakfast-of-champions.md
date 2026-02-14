@@ -3,10 +3,10 @@ title: "Today's Breakfast of Champions"
 date: 2018-10-12T21:44:00Z
 tags: ["Coffee", "Food"]
 author: "L. Barker"
-featureimage: "/images/b9f6b0a67fe7_bfastChamp.jpg"
+featureimage: "/images/b9f6b0a67fe7_bfastChamp.webp"
 ---
 
-[![](/images/b9f6b0a67fe7_bfastChamp.jpg)](/images/18d2dc5a0326_bfastChamp.jpg)
+[![](/images/b9f6b0a67fe7_bfastChamp.webp)](/images/18d2dc5a0326_bfastChamp.webp)
 
 **Coffee**: San Francisco Bay French Roast beans (Costco)
 

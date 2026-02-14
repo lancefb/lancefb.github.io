@@ -3,10 +3,10 @@ title: "A Funny Thing Happened"
 date: 2020-09-12T18:51:00.004Z
 tags: ["Family"]
 author: "L. Barker"
-featureimage: "/images/b1d09185ee2f_Lucky.jpg"
+featureimage: "/images/b1d09185ee2f_Lucky.webp"
 ---
 
-[![](/images/b1d09185ee2f_Lucky.jpg)](/images/1f9fa62d3ebc_Lucky.jpg)
+[![](/images/b1d09185ee2f_Lucky.webp)](/images/1f9fa62d3ebc_Lucky.webp)
 
 It crowed.
 

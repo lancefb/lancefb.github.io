@@ -3,12 +3,12 @@ title: "Found at C.A.N."
 date: 2019-01-03T18:44:00Z
 tags: ["Truth", "Food"]
 author: "L. Barker"
-featureimage: "/images/c9067d7ccd66_chipotle.jpg"
+featureimage: "/images/c9067d7ccd66_chipotle.webp"
 ---
 
 Found a can of this at C.A.N.:
 
-[![](/images/c9067d7ccd66_chipotle.jpg)](/images/76c78cfb61cb_chipotle.jpg)
+[![](/images/c9067d7ccd66_chipotle.webp)](/images/76c78cfb61cb_chipotle.webp)
 
 It's delicious, smoky, and hot, man! I've been adding it to spice up my fixin's and I've learned to moderate it.
 

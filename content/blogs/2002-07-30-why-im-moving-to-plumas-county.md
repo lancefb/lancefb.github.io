@@ -3,7 +3,7 @@ title: "Why I'm Moving To Plumas County"
 date: 2002-07-30T16:57:00Z
 tags: ["Quincy"]
 author: "L. Barker"
-featureimage: "/images/554a1d49c720_ThanksG.jpg"
+featureimage: "/images/554a1d49c720_ThanksG.webp"
 ---
 
 *A Change of Scenery, and Maybe Also a Soul*
@@ -18,7 +18,7 @@ And Santa Cruz? Beautiful, yes. But busier by the minute. These days I can hear 
 
 I love my house there. I really do. It’s held more good memories than I could count, if I were the sort of person who counted memories.
 
-[![](/images/554a1d49c720_ThanksG.jpg)](/images/4f94d6441141_ThanksG.jpg)
+[![](/images/554a1d49c720_ThanksG.webp)](/images/4f94d6441141_ThanksG.webp)
 
 But.
 

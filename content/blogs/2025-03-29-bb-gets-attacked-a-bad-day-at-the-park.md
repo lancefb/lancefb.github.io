@@ -3,10 +3,10 @@ title: "BB Gets Attacked. A Bad Day At The Park."
 date: 2025-03-29T16:51:00Z
 tags: ["Family"]
 author: "L. Barker"
-featureimage: "/images/faa9d6078286.jpg"
+featureimage: "/images/faa9d6078286.webp"
 ---
 
-[![](/images/faa9d6078286.jpg)](/images/df66bef7c69a.jpg)
+[![](/images/faa9d6078286.webp)](/images/df66bef7c69a.webp)
 
 It happened too fast.
 

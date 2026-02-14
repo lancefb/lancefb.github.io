@@ -2,11 +2,11 @@
 title: "Learning To Play Piano At 70"
 date: 2026-01-23
 draft: false
-featureimage: "/images/piano-journey.jpg"
+featureimage: "/images/piano-journey.webp"
 tags: ["AI", "Music", "Learning"]
 ---
 
-[![](/images/piano-journey.jpg)](/images/piano-journey.jpg)
+[![](/images/piano-journey.webp)](/images/piano-journey.webp)
 
 ## Overview
 

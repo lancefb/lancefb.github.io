@@ -3,10 +3,10 @@ title: "What Is Music?"
 date: 2018-07-15T07:19:00Z
 tags: ["Beauty", "Music", "Truth"]
 author: "L. Barker"
-featureimage: "/images/3b9fe876b671_WhatIsMusicPic.png"
+featureimage: "/images/3b9fe876b671_WhatIsMusicPic.webp"
 ---
 
-[![](/images/3b9fe876b671_WhatIsMusicPic.png)](/images/9e58d3d22e8d_WhatIsMusicPic.png)
+[![](/images/3b9fe876b671_WhatIsMusicPic.webp)](/images/9e58d3d22e8d_WhatIsMusicPic.webp)
 
 We know that sound results from the vibrations of air molecules moving through the air to our eardrums, that the speed of those vibrations is referred to as frequency, measured in Hertz, and that pitch is the relative highness or lowness of a sound. But what is music?
 

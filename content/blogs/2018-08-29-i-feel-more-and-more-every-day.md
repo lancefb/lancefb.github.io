@@ -3,10 +3,10 @@ title: "I Feel More And More Every Day,"
 date: 2018-08-29T20:10:00.004Z
 tags: ["Beauty", "Truth"]
 author: "L. Barker"
-featureimage: "/images/c49d1190a1e4_IMG_0721.jpg"
+featureimage: "/images/c49d1190a1e4_IMG_0721.webp"
 ---
 
-[![](/images/c49d1190a1e4_IMG_0721.jpg)](/images/1615ba753bf2_IMG_0721.jpg)
+[![](/images/c49d1190a1e4_IMG_0721.webp)](/images/1615ba753bf2_IMG_0721.webp)
 
 *as my imagination strengthens, that I do not live in this world alone but in a thousand worlds. *(John Keats)
 

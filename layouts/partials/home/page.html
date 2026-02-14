@@ -1,5 +1,5 @@
 {{/* Background image - fixed behind content */}}
-{{ $homepageImage := resources.Get "images/gallery/string/sfSrl2.png" }}
+{{ $homepageImage := resources.Get "images/gallery/string/sfSrl2.webp" }}
 {{ if $homepageImage }}
   <div class="fixed inset-x-0 top-0 -z-10">
     <img
@@ -18,7 +18,7 @@
 <div class="relative">
   <div style="text-align: center; margin-bottom: 1rem;">
     <img
-      src="/images/aboutImage.jpg"
+      src="/images/aboutImage.webp"
       alt="{{ .Site.Params.Author.name | default `Author` }}"
       style="width: 300px !important; height: 300px !important; border-radius: 50% !important; object-fit: cover !important; display: inline-block !important;">
   </div>

@@ -3,10 +3,10 @@ title: "Lattes & Loitering, Episode 52:  A New Book (with a twist)"
 date: 2025-12-12
 tags: ["LattesAndLoitering", "AI", "Books", "Coffee"]
 author: "L. Barker"
-featureimage: "/images/acba93482eb3_13thingsBook.png"
+featureimage: "/images/acba93482eb3_13thingsBook.webp"
 ---
 
-[![](/images/acba93482eb3_13thingsBook.png)](https://notegpt.io/books/things-mentally-strong-people-dont-do)
+[![](/images/acba93482eb3_13thingsBook.webp)](https://notegpt.io/books/things-mentally-strong-people-dont-do)
 
 It started, as these things often do, with a book.
 
@@ -45,8 +45,8 @@ Here's some clickable stuff:
 
 **[Simulated podcast](https://drive.google.com/file/d/1_fM5I3cSvdKJXVFcZaAwZwR2wJE_zkGD/view?usp=sharing)**
 
-[![](/images/68196c370703_NotebookLM_20Mind_20Map.png)](/images/16f009cd0b21_NotebookLM_20Mind_20Map.png)Mind map of '13 Things'
+[![](/images/68196c370703_NotebookLM_20Mind_20Map.webp)](/images/16f009cd0b21_NotebookLM_20Mind_20Map.webp)Mind map of '13 Things'
 
 Oh, and speaking of loitering:
 
-[![](/images/473c9bd7545d_BellaLoitering.jpeg)](/images/e3723dc24665_BellaLoitering.jpeg)
+[![](/images/473c9bd7545d_BellaLoitering.webp)](/images/e3723dc24665_BellaLoitering.webp)

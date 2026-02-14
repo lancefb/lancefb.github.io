@@ -2,7 +2,7 @@
 title: "Last Room In The Hovel"
 date: 2013-08-06T22:08:00.002Z
 author: "L. Barker"
-featureimage: "/images/f9b377c79ca3_photo.jpg"
+featureimage: "/images/f9b377c79ca3_photo.webp"
 ---
 
 As Summer winds down, I want to reflect on where I am with this house of mine. It's been a busy 6-8 weeks of work, starting with mudding, texturing, then painting the walls of the living room where I sleep. Next came the decision to pull out the carpet and lay down flooring that matched the kitchen.  Then I built a bed (more on that later).
@@ -13,7 +13,7 @@ But most of the time was spent on getting the far end of the house to near move-
 
 But the very last room to deal with just finished up yesterday - the second bathroom. It's not finished finished yet, but the toilet and sink are in, plumbed and working, while the shower needs plumbing and tile, etc.
 
-[![](/images/f9b377c79ca3_photo.jpg)](/images/3c35380af1a5_photo.jpg)
+[![](/images/f9b377c79ca3_photo.webp)](/images/3c35380af1a5_photo.webp)
 
 I decided to have some fun and save some water by installing a small sink I was given above the toilet so that it drains into the tank which then gets flushed. It works great!  The rest of the materials are also recycled - old wood and corrugated iron.
 

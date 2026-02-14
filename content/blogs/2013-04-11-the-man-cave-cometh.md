@@ -2,7 +2,7 @@
 title: "The Man Cave Cometh"
 date: 2013-04-11T22:03:00.002Z
 author: "L. Barker"
-featureimage: "/images/1e77aab95376_SANY0196.jpg"
+featureimage: "/images/1e77aab95376_SANY0196.webp"
 ---
 
 **June 2nd **is the **DROP DEAD** move in date to the hovel - come what may.
@@ -35,4 +35,4 @@ Don't have:
 
 - a single clean room 
 
-[![](/images/1e77aab95376_SANY0196.jpg)](/images/48a2e1a763fd_SANY0196.jpg)
+[![](/images/1e77aab95376_SANY0196.webp)](/images/48a2e1a763fd_SANY0196.webp)

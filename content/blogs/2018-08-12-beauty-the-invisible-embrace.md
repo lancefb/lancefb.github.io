@@ -3,10 +3,10 @@ title: "Beauty. The Invisible Embrace."
 date: 2018-08-12T00:03:00Z
 tags: ["Beauty", "Books", "Truth"]
 author: "L. Barker"
-featureimage: "/images/ef49aad708fe_beauty3.png"
+featureimage: "/images/ef49aad708fe_beauty3.webp"
 ---
 
-[![](/images/ef49aad708fe_beauty3.png)](/images/ec1ca6f8e34d_beauty3.png)
+[![](/images/ef49aad708fe_beauty3.webp)](/images/ec1ca6f8e34d_beauty3.webp)
 
 *Yet beauty's visitation affects us and invites us into its rhythm, it calls us to feel think and act beautifully in the world: to create and live a life that awakens the Beautiful. A life without delight is only half a life. Lest this be construed as a plea for decadence or a self-indulgence that is blind to the horrors of the world, we should remember that beauty does not restrict its visitations only to those whom fortune or circumstances favour. Indeed, it is often the whispers and glimpses of beauty which enable people to endure on desperate frontiers.*
 
