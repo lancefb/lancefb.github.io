@@ -15,3 +15,6 @@ enableEmoji = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[minify]
+  disableJSON = true
