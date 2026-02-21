@@ -53,4 +53,4 @@ Practicing with real-time MIDI feedback and notation makes a noticeable differen
 
 ---
 
-**Project Status:** Active Development
+**Project Status:** Active Development | [View on GitHub](https://github.com/lancefb/music-teacher)
