@@ -3,6 +3,8 @@
 
 # Editor symlinks
 /images
+/content/blogs/images
+/content/projects/images
 
 # Hugo build output
 /public/
