@@ -1,3 +1,6 @@
+# Obsidian
+.obsidian/
+
 # Hugo build output
 /public/
 /resources/_gen/

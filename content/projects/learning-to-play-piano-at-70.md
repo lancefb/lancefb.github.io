@@ -18,13 +18,13 @@ So I'm using AI to help — not just as a tutor, but as a co-pilot in my learnin
 
 ## The Problem
 
-Traditional music education is built for young learners with endless time and plastic brains. I have a lifetime of music behind me, but my fingers are new to the keyboard. The problem? I need to learn smarter, not harder — and fast.
+Traditional music education is built for young learners with endless time and plastic brains. I have some years of music behind me, but my fingers are new to the keyboard. The problem? I need to learn smarter, not harder — and fast.
 
 ## The Solution
 
-I'm building a suite of AI-enhanced tools and visualizations to accelerate the process:
-- Interactive triad visualizers
-- Voice-based practice apps
+I'm consulting with some LLMs for ideas and coding up AI-enhanced tools to accelerate the process:
+- [Interactive triad visualizers](https://github.com/lancefb/piano-triad-explorer)
+- various practice apps
 - Spaced repetition tools for chord memory
 - Reflective journaling pipelines with AI assistance
 
@@ -32,27 +32,20 @@ I'm building a suite of AI-enhanced tools and visualizations to accelerate the p
 
 ### Stack
 
-- **Frontend:** HTML, JavaScript, TailwindCSS
-- **AI Integration:** ChatGPT, OpenAI TTS
-- **Utilities:** Python scripts for MIDI analysis and visualization
+- **Frontend:** HTML, JavaScript, TailwindCSS, and who knows what else
+- **AI Integration:** ChatGPT, Gemini, Claude
+- **Utilities:** Python scripts for MIDI analysis and visualization (maybe -- at least it sounds good)
 - **Hosting:** GitHub Pages
 
 ### Architecture
 
-The tools are mostly lightweight, client-side apps — some are being prototyped directly in-browser, while others will evolve into standalone Python apps or web utilities. One tool, for instance, highlights and plays triads on a virtual keyboard based on inversion and root selection.
+The tools are mostly lightweight, client-side apps — some are being prototyped directly in-browser, while others may evolve into standalone Python apps or web utilities. One tool, for instance, is the [Piano Triad Explorer](https://github.com/lancefb/piano-triad-explorer) — it highlights and plays triads on a virtual keyboard based on inversion and root selection.
 
 ```javascript
 function playTriad(root, type, inversion) {
   // Render the chord on a virtual keyboard and play it
 }
 ```
-
-## Key Features
-
-1. **Octave-Labeled Keyboard** - Each key displays its pitch (C4, E5, etc.)
-2. **Inversion Explorer** - Understand and hear root, first, and second inversions
-3. **Voice Commands (Coming Soon)** - “Play a C minor first inversion” — hands-free
-4. **Progress Tracker** - Logs practice sessions and AI feedback
 
 ## Challenges & Learnings
 
@@ -68,10 +61,10 @@ The tools are already helping me visualize chords and hear relationships more cl
 
 ## Future Plans
 
-- Integrate voice recognition for verbal input
+- Integrate voice recognition for verbal input?
 - Build a “line learner” for playing and repeating short musical phrases
 - Create a course-like flow for beginners over 60
 
 ---
 
-**Project Status:** Active Development. NOTE: you must connect a MIDI keybaord to use this. I will be adding more functionality soon.
+**Project Status:** Active Development. 

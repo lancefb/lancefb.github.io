@@ -12,7 +12,7 @@ With my friend Tony helping me out,  we prepared to go down under.  I borrowed
 
 After having widened the access hole and clearing away as much stuff as possible, I tried to go in head first.
 
-It didn't work. I had to do something about a pipe in the way. After backing out, I went in again with a reciprocating saw to cut off the abandoned galvanized pipe. There was also a gas pipe coming out. Couldn't cut that! Being used. Tony did a good job of keeping it out of my.
+It didn't work. I had to do something about a pipe in the way. After backing out, I went in again with a reciprocating saw to cut off the abandoned galvanized pipe. There was also a gas pipe coming out. Couldn't cut that! Being used. Tony did a good job of keeping it out of my way.
 
 Next I tried going in feet first. Got fully inside but just couldn't see how to move on to where I needed to go. I was feeling frustrated and a little panicky in the confined space.
 
