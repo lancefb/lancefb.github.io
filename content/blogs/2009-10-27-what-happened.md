@@ -3,6 +3,8 @@ title: "What Happened?"
 date: 2009-10-27T19:49:00Z
 author: "L. Barker"
 featureimage: "/images/617733a77fa4_wreck.webp"
+tags:
+  - Hovel
 ---
 
 Earlier this Summer, things were moving along nicely. I went through almost everything I own, tossed a bunch, organized most of the rest, transformed my shack into an orderly place to store my belongings and tools, and was about to get some help on some substantial work.

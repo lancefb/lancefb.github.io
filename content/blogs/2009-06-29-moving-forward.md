@@ -3,6 +3,8 @@ title: "Moving Forward"
 date: 2009-06-29T04:25:00Z
 author: "L. Barker"
 featureimage: "/images/8f0868fbcd60_hs_backshed4-15-09.webp"
+tags:
+  - Hovel
 ---
 
 [![](/images/8f0868fbcd60_hs_backshed4-15-09.webp)](/images/4cb3cf6e2ba3.webp)

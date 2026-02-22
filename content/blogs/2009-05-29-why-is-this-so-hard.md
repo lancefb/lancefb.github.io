@@ -2,6 +2,8 @@
 title: "Why is this so hard?"
 date: 2009-05-29T18:38:00Z
 author: "L. Barker"
+tags:
+  - Hovel
 ---
 
 The good, the bad, and the ugly.

@@ -3,6 +3,8 @@ title: "Water, water everywhere. Not a drop to drink."
 date: 2010-02-03T18:58:00Z
 author: "L. Barker"
 featureimage: "/images/65f79fd9b1f2_BreakSm.webp"
+tags:
+  - Hovel
 ---
 
 I knew the cold weather was coming. Worried about yet another broken pipe fiasco, I decided to turn off the water at the street knowing I wouldn’t be around to check on things while in New Mexico for Christmas. I don’t like turning off the water that way. Keeping the pressure in the pipes is good for the system, I think. Less likely to break something? When I turn it off, then on again with the pressure surging in all at once, I cringe, imagining old joints giving way. It has happened before.

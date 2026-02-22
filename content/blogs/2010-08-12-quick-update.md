@@ -2,6 +2,8 @@
 title: "Quick Update"
 date: 2010-08-12T21:35:00Z
 author: "L. Barker"
+tags:
+  - Hovel
 ---
 
 My hero Greg has left town.  Going back to school after a short summer working on my house. He (we) got a lot done.  I owe him huge for his creative efforts.

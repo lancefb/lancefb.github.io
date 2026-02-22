@@ -3,6 +3,8 @@ title: "Images of my progress"
 date: 2009-05-20T17:58:00Z
 author: "L. Barker"
 featureimage: "/images/5c126d4ffff2_SANY0214.webp"
+tags:
+  - Hovel
 ---
 
 [![](/images/5c126d4ffff2_SANY0214.webp)](/images/fe595dbfc8ae_SANY0214.webp)

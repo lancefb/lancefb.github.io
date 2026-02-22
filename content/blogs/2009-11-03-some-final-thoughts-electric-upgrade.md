@@ -2,6 +2,8 @@
 title: "Some Final Thoughts - Electric Upgrade"
 date: 2009-11-03T18:17:00Z
 author: "L. Barker"
+tags:
+  - Hovel
 ---
 
 Got some lights working! Wired some myself! Now I go shopping for sconces, etc. to finish up. I learned some things (you can buy a simple wall switch for 69 cents - made in the USA). Discovered I kinda like working with wire. Almost electrocuted myself when I stuck a probe into a switch - the wrong way. Got my hands dirty. (It's interesting to thrust your bare arm into a newly drilled hole in the ceiling and grope around, not knowing what your fingers will discover.) Radically increased the usability of my hovel (I can now see where the mouse turds are). Forced to make decisions that will effect how I live and are largely irreversible.

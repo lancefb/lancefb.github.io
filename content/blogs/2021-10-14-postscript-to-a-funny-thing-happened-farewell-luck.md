@@ -7,7 +7,7 @@ author: "L. Barker"
 
 Some months later, Lucky found a new home.
 
-A nearby ranch had what I was told—quite delicately—was a “hen-heavy situation.” Dozens of ladies. No rooster. The kind of imbalance that called for… let’s just say, some poultry-level testosterone.
+A nearby ranch had what I was told—quite delicately—was a “hen-heavy situation.” Dozens of ladies. No gents. The kind of imbalance that called for… let’s just say, some poultry-level testosterone.
 
 Enter Lucky D. Clucky.
 

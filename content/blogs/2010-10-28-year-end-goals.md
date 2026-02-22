@@ -3,6 +3,8 @@ title: "Year End Goals"
 date: 2010-10-28T17:56:00Z
 author: "L. Barker"
 featureimage: "/images/a39eba5c4c10_hovel_plan_detailed.webp"
+tags:
+  - Hovel
 ---
 
 [![](/images/a39eba5c4c10_hovel_plan_detailed.webp)](/images/3e1e97ec5617_hovel_plan_detailed.webp)

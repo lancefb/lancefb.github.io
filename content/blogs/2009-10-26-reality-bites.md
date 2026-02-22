@@ -2,6 +2,8 @@
 title: "Reality Bites"
 date: 2009-10-26T18:28:00Z
 author: "L. Barker"
+tags:
+  - Hovel
 ---
 
 I am forced to make a small change in my program. I'm moving my move-in date from Nov.1 2009 to Nov. 1 2010. Like I said. A small change.

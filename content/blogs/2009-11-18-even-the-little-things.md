@@ -3,6 +3,8 @@ title: "Even The Little Things"
 date: 2009-11-18T06:27:00Z
 author: "L. Barker"
 featureimage: "/images/686c20da2eaa_SANY0232-1.webp"
+tags:
+  - Hovel
 ---
 
 [![](/images/686c20da2eaa_SANY0232-1.webp)](/images/5bfec02b0c10_SANY0232-1.webp)I thought it would be a good idea to replace my outdoor lamp with this one which features a daylight sensor that will turn the light off in the morning and back on at dusk. I wired it in and tested it and it works! I'm feeling fine. Problem #1: the lamp sits so close up under the eave that the light goes on even in the middle of the day if it isn't a bright cloudless day. I'm going to try to put a piece of aluminum foil or something above the sensor to reflect more light onto it. Problem #2: neighbor from across the street shows up at my doorstep the next day and asks me to turn off the light at night because it shines right in her bedroom window and keeps her up at night! WTF! I laugh and explain incredulously that I just put it in! We talk and laugh about it for awhile. We come up with some options. How about I try to paint the outside of the globe to dim the light a bit? If that doesn't work, I could hang something in front of it. She agrees. I rummage around and find some yellowish paint, take off the globe, paint half - the half facing her, let it dry, then remount the globe. I called her and told her it was up and to let me know if it works for her or not. She says she has plenty more paint in various colors if I need it. It looks kind of funny, but she hasn't complained so far.

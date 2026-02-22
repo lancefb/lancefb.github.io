@@ -2,6 +2,8 @@
 title: "I've Gone Insane. "
 date: 2011-09-12T18:53:00Z
 author: "L. Barker"
+tags:
+  - Hovel
 ---
 
 I moved into the hovel. 

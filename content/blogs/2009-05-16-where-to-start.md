@@ -3,6 +3,8 @@ title: "Where to start?"
 date: 2009-05-16T17:41:00Z
 author: "L. Barker"
 featureimage: "/images/6bd17a06ce91_hs_backshed4-15-09.webp"
+tags:
+  - Hovel
 ---
 
 [![](/images/6bd17a06ce91_hs_backshed4-15-09.webp)](/images/478fdfaea0e0.webp)

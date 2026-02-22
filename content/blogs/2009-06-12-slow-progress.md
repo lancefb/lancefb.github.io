@@ -3,6 +3,8 @@ title: "Slow Progress"
 date: 2009-06-12T17:50:00Z
 author: "L. Barker"
 featureimage: "/images/d988982d8659_shackshelves.webp"
+tags:
+  - Hovel
 ---
 
 [![](/images/d988982d8659_shackshelves.webp)](/images/c5186aa4d6be.webp)
