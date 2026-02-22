@@ -3,6 +3,8 @@ title: "Behold, the Plywood Kitchen."
 date: 2013-04-29T18:28:00Z
 author: "L. Barker"
 featureimage: "/images/e275ac4cc614_2013-04-28_18.05.37.webp"
+tags:
+  - Hovel
 ---
 
 [![](/images/e275ac4cc614_2013-04-28_18.05.37.webp)](/images/e275ac4cc614_2013-04-28_18.05.37.webp)

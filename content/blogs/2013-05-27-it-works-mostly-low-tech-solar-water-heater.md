@@ -3,6 +3,8 @@ title: "It Works (mostly)!  Low Tech Solar Water Heater."
 date: 2013-05-27T18:03:00.004Z
 author: "L. Barker"
 featureimage: "/images/ace3a06ccf8d_2013-05-26_16.08.08.webp"
+tags:
+  - Hovel
 ---
 
 The hovel is without a real water heater, so I rigged up a solar water warmer with black tubing on the roof.
