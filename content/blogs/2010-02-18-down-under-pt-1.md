@@ -2,9 +2,12 @@
 title: "Down Under, Pt. 1"
 date: 2010-02-18T21:32:00Z
 author: "L. Barker"
+featureimage: "/images/down-under-pt-1.webp"
 tags:
   - Hovel
 ---
+
+[![](/images/down-under-pt-1.webp)](/images/down-under-pt-1.webp)
 
 
 ## To review:

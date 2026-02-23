@@ -2,9 +2,12 @@
 title: "Kitchen Electric Upgrade, Part 2, (Phase 1)"
 date: 2009-10-30T17:50:00Z
 author: "L. Barker"
+featureimage: "/images/kitchen-electric-upgrade-part-2-phase-1.webp"
 tags:
   - Hovel
 ---
+
+[![](/images/kitchen-electric-upgrade-part-2-phase-1.webp)](/images/kitchen-electric-upgrade-part-2-phase-1.webp)
 
 In order to finish the wiring job, we had to get under the house to run the new wiring to the panel. Looked around and discovered no easy way to get under. This surprised me. Although I've never been under there, I thought I'd be able to when necessary. Nope.
 

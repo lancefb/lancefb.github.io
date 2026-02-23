@@ -2,9 +2,12 @@
 title: "Kitchen Electric Upgrade, Part 1"
 date: 2009-10-28T19:16:00Z
 author: "L. Barker"
+featureimage: "/images/kitchen-electric-upgrade-part-1.webp"
 tags:
   - Hovel
 ---
+
+[![](/images/kitchen-electric-upgrade-part-1.webp)](/images/kitchen-electric-upgrade-part-1.webp)
 
 The most significant work needs to happen in my kitchen. I need electrical and plumbing upgrades. A friend from my days as an FRC student came up to help me with phase 1 of a very much needed upgrade. This phase:
 
