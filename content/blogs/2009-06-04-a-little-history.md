@@ -2,9 +2,12 @@
 title: "A Little History"
 date: 2009-06-04T02:36:00Z
 author: "L. Barker"
+featureimage: "/images/a-little-history.webp"
 tags:
   - Hovel
 ---
+
+[![](/images/a-little-history.webp)](/images/a-little-history.webp)
 
 My house is not ordinary. It came from an uncommon start. My neighbor, having lived across the street all her life told me all about it. When the old mine shut down, the owners told the miners they could take haul their shacks off the mountain and do what they pleased with them. My lot, purchased by one of those miners was prepared for two of those cabins. The old man built a foundation and did a good job of cobbling together those cabins into a small house. My neighbor says she has photos somewhere of a wedding on the lawn in the 50's. 
 

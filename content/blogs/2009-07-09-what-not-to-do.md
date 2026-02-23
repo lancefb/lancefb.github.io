@@ -2,9 +2,12 @@
 title: "What Not To Do"
 date: 2009-07-09T16:52:00Z
 author: "L. Barker"
+featureimage: "/images/what-not-to-do.webp"
 tags:
   - Hovel
 ---
+
+[![](/images/what-not-to-do.webp)](/images/what-not-to-do.webp)
 
 Some time ago, I worked with a friend to lay some tile on my small bathroom floor. It turned out great! Made a big difference. The next day we walked into the bathroom to inspect the finished product. To my horror, it all cracked! Turns out the floor was slightly spongy - not enough to really notice. You can't do that with tile. The floor has to be absolutely rigid. (Makes sense after the fact.) I didn't know. I was catatonic. We had to pull it all out, add support to the floor and relay the tile. I tried to organize the tile to put it back in the original order. Glue got on top of most of the tiles. Not sure how I'm going to get it off. At least its solid now.
 
