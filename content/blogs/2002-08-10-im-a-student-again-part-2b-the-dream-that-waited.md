@@ -3,7 +3,10 @@ title: "I’m a Student Again, Part 2B: The Dream That Waited"
 date: 2002-08-10T00:29:00Z
 tags: ["Throwback", "FRC", "Backstory"]
 author: "L. Barker"
+featureimage: "/images/im-a-student-again-part-2b.webp"
 ---
+
+[![](/images/im-a-student-again-part-2b.webp)](/images/im-a-student-again-part-2b.webp)
 
 Yosemite Mountaineering School wasn’t just a program. It was a cathedral tucked in the wilderness—stone fireplaces, wood floors, big beams that looked like they’d been lifted straight from the forest and blessed with permanence. The building itself breathed purpose.
 
