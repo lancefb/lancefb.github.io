@@ -2,6 +2,8 @@
 title: "Homogeneous Ruts"
 date: 2013-03-19T22:36:00.001Z
 author: "L. Barker"
+tags:
+  - Hovel
 featureimage: "/images/92fddd2a03f5_bedifferent.webp"
 ---
 

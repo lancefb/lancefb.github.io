@@ -2,6 +2,8 @@
 title: "What I've Been Up To"
 date: 2017-09-20T22:32:00Z
 author: "L. Barker"
+tags:
+  - Hovel
 featureimage: "/images/977934437665_WIBUT_Siding.webp"
 ---
 

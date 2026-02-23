@@ -2,6 +2,8 @@
 title: "Feel Like Hanging It Up"
 date: 2012-01-11T20:06:00Z
 author: "L. Barker"
+tags:
+  - Hovel
 featureimage: "/images/8e8da12b57f1_vienna-h-house1.webp"
 ---
 

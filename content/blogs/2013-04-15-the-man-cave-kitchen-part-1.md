@@ -2,6 +2,8 @@
 title: "The Man Cave Kitchen, Part 1"
 date: 2013-04-15T19:00:00.001Z
 author: "L. Barker"
+tags:
+  - Hovel
 featureimage: "/images/923ea864c55a_hovel_plan_detailed.webp"
 ---
 

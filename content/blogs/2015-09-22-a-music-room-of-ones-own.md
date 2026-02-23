@@ -2,6 +2,8 @@
 title: "A Music Room Of One's Own"
 date: 2015-09-22T20:09:00Z
 author: "L. Barker"
+tags:
+  - Hovel
 featureimage: "/images/6dadd0f90a4b_IMG_0090.webp"
 ---
 
