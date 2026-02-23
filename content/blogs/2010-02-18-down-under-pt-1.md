@@ -6,9 +6,8 @@ tags:
   - Hovel
 ---
 
-{{}}
 
-To review:
+## To review:
 
 - Some water pipes broke (again) in my house during the last freeze
 
