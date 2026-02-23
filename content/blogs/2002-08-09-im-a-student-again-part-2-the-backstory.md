@@ -3,7 +3,10 @@ title: "I'm a Student Again, Part 2: The Backstory"
 date: 2002-08-09T06:01:00Z
 tags: ["Throwback", "FRC", "Backstory"]
 author: "L. Barker"
+featureimage: "/images/im-a-student-again-part-2.webp"
 ---
+
+[![](/images/im-a-student-again-part-2.webp)](/images/im-a-student-again-part-2.webp)
 
 *This All Started with a One-Way Ticket to the Wild*
 
