@@ -15,6 +15,4 @@ Next phase:
 
 - upgrade panel to 200 amp service (scheduled for Spring/Summer 2010)
 
-I started by demolishing part of a wall in the kitchen before Mike arrived to expose the existing baffling wire job:
-
-{{}}
+I started by demolishing part of a wall in the kitchen before Mike arrived to expose the existing baffling wire job.
