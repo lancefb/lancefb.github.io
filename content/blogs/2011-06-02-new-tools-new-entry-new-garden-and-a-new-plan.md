@@ -2,9 +2,12 @@
 title: "New tools, new entry, new garden, and a new plan."
 date: 2011-06-02T01:46:00Z
 author: "L. Barker"
+featureimage: "/images/new-tools-new-entry-new-garden-and-a-new-plan.webp"
 tags:
   - Hovel
 ---
+
+[![](/images/new-tools-new-entry-new-garden-and-a-new-plan.webp)](/images/new-tools-new-entry-new-garden-and-a-new-plan.webp)
 
 Things have been busy at the hovel the last few weeks.  Leslie and I built 2 new planters for growing veggies. Just for fun, and just in case civilization takes a serious dive soon and we start experiencing food shortages.
 

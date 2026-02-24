@@ -2,7 +2,10 @@
 title: "Working on a local theatrical production--again!"
 date: 2018-04-26T15:02:00.003Z
 author: "L. Barker"
+featureimage: "/images/working-on-a-local-theatrical-production-again.webp"
 ---
+
+[![](/images/working-on-a-local-theatrical-production-again.webp)](/images/working-on-a-local-theatrical-production-again.webp)
 
 Yes, I did it again. Decided to take on another role in a local community theater production of ...
 

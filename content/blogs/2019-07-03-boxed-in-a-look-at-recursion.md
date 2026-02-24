@@ -3,7 +3,10 @@ title: "Boxed In: a look at recursion"
 date: 2019-07-03T04:16:00Z
 tags: ["Beauty", "Numbers", "Inspired Geometry", "Art", "Experiment"]
 author: "L. Barker"
+featureimage: "/images/boxed-in-a-look-at-recursion.webp"
 ---
+
+[![](/images/boxed-in-a-look-at-recursion.webp)](/images/boxed-in-a-look-at-recursion.webp)
 
 ##
 "To understand recursion, you must understand recursion."

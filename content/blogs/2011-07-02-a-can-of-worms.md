@@ -2,9 +2,12 @@
 title: "A Can Of Worms"
 date: 2011-07-02T01:55:00Z
 author: "L. Barker"
+featureimage: "/images/a-can-of-worms.webp"
 tags:
   - Hovel
 ---
+
+[![](/images/a-can-of-worms.webp)](/images/a-can-of-worms.webp)
 
 Nothing is simple in this place.  I just wanted to texture and paint a tiny 4' X 6' room - a laundry room.
 

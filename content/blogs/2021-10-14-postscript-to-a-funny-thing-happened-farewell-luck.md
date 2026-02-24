@@ -3,7 +3,10 @@ title: "Postscript To A Funny Thing Happened:  Farewell, Lucky"
 date: 2021-10-14T23:15:00Z
 tags: ["Family"]
 author: "L. Barker"
+featureimage: "/images/postscript-to-a-funny-thing-happened-farewell-luck.webp"
 ---
+
+[![](/images/postscript-to-a-funny-thing-happened-farewell-luck.webp)](/images/postscript-to-a-funny-thing-happened-farewell-luck.webp)
 
 Some months later, Lucky found a new home.
 

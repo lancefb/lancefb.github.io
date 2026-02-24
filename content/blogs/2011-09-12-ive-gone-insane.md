@@ -2,9 +2,12 @@
 title: "I've Gone Insane. "
 date: 2011-09-12T18:53:00Z
 author: "L. Barker"
+featureimage: "/images/ive-gone-insane.webp"
 tags:
   - Hovel
 ---
+
+[![](/images/ive-gone-insane.webp)](/images/ive-gone-insane.webp)
 
 I moved into the hovel. 
 
