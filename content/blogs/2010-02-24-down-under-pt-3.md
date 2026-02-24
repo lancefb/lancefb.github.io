@@ -2,9 +2,12 @@
 title: "Down Under, Pt. 3"
 date: 2010-02-24T20:57:00Z
 author: "L. Barker"
+featureimage: "/images/down-under-pt-3.webp"
 tags:
   - Hovel
 ---
+
+[![](/images/down-under-pt-3.webp)](/images/down-under-pt-3.webp)
 
 Gotta go back down there, I thought to myself.  No choice.  I assumed if I inserted myself in that hole again I would feel a little more comfortable.  So I did. I needed to squirm into the next bay to get access to the problem.  I had stuck a light down into the hole from above so that I could see the point to which to crawl.  When I managed to get into the bay, I just lay there for a bit.  Looked around.
 
