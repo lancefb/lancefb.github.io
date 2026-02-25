@@ -40,3 +40,7 @@ Mick is fictional. But his story? It’s everywhere.
  
 
 The project will grow slowly, the way real doubt does. A still photo is the one above. No voices or narration, just a lot of cards that, one after the other, probe the unsettling issues gnawing at Mick. This is my attempt to speak to a fracture in our collective story using the only tools I’ve got: humor, pixels, and a deep love for asking inconvenient questions.
+
+---
+
+**Update — February 2026:** The production approach turned out to be too laborious to scale. MAGA Mick has been re-engineered into **[Pushback Jack](/blogs/2026-02-25-pushback-jack/)** — a lumberjack character with a fully automated pipeline: write the cards, hit render, get a video. Less partisan, more universal. The cue card format survived. The hand-built production process did not.
