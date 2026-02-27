@@ -1,6 +1,6 @@
 ---
 title: "Mandala Series Gallery"
-date: 2026-01-24
+date: 2019-06-14
 draft: false
 description: "Generative art - Mandala Series"
 ---
