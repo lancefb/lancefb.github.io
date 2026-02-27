@@ -18,7 +18,6 @@ This is what's possible now.
 <div>
 <video controls style="width:100%;border-radius:4px;margin:1.5rem 0;">
   <source src="/videos/symbology-grid.webm" type="video/webm">
-  <source src="/videos/symbology-grid.mp4" type="video/mp4">
 </video>
 </div>
 
