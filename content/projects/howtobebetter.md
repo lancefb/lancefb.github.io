@@ -8,7 +8,7 @@ tags: ["AI", "Education", "Personal Growth"]
 badges:
   - "AI"
   - "Education"
-  - "Coming Soon"
+  - "Active"
 links:
   - icon: fas fa-globe
     url: https://howtobebetter.ai
@@ -26,14 +26,20 @@ Not productivity hacks. Personal growth.
 
 ## What It Is
 
-A platform combining short, practical ebooks with guided AI experiences — giving people a way to actually *use* AI for the things that matter, not just stare at a blank prompt.
+A weekly newsletter about using AI for personal growth — not productivity hacks, but actual *becoming*.
 
-## Status
+More patient. More curious. A better listener, thinker, parent, citizen. The question I keep coming back to isn't what AI can do — it's what it can help you *be*.
 
-In development. More details coming soon.
+Each issue explores that question from a practical angle: experiments, reflections, and honest observations from someone learning alongside the tools, not pretending to have it figured out.
+
+## Subscribe
+
+**[Join the newsletter at howtobebetter.ai &rarr;](https://howtobebetter.ai)**
+
+One email a week. No hype. Unsubscribe anytime.
 
 [![](/images/howtobebetter-2.webp)](/images/howtobebetter-2.webp)
 
 ---
 
-**Project Status:** Coming Soon
+**Project Status:** Active
