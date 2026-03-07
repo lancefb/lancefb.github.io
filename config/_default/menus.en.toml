@@ -9,8 +9,8 @@
   weight = 30
 
 [[main]]
-  name = "Be Better"
-  pageRef = "bebetter"
+  name = "Become"
+  url = "https://howtobebetter.ai"
   weight = 35
 
 [[main]]
