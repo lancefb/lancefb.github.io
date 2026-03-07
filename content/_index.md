@@ -34,7 +34,7 @@ Much of my life has been spent exploring creative expression in its many forms: 
 
 I believe AI—non-human as it is—has the potential to help us become better humans. Not by replacing thinking, creativity, or judgment, but by augmenting them. By helping us learn faster, reflect more clearly, notice our blind spots, and engage more deeply with what matters.
 
-That belief is the seed of a new project: [howtobebetter.ai](#projects).
+That belief is the seed of a new project: [howtobebetter.ai](https://howtobebetter.ai).
 
 The idea is simple and ambitious at the same time—to explore how intelligent tools can support human growth: intellectually, creatively, ethically, and civically. This isn't about hype or shortcuts. It's about careful use. Responsible experimentation. Treating AI as a collaborator rather than an oracle, and always keeping human values in the driver's seat.
 
