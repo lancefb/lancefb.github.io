@@ -24,7 +24,7 @@ smartTOC = true
   showScrollToTop = true
 
 [homepage]
-  layout = "page"
+  layout = "list"
   showRecent = false
   showRecentItems = 6
   showMoreLink = true

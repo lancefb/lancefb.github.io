@@ -13,6 +13,7 @@ title = "Lance Barker Home"
   name = "Lance Barker"
   headline = "Creator, Entrepreneur, Citizen."
   bio = "Exploring my own creative expression and building things that help people."
+  image = "images/aboutImage.webp"
   links = [
     { github = "https://github.com/lancefb" },
   ]

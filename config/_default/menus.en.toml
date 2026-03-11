@@ -1,19 +1,19 @@
 [[main]]
-  name = "Blog"
-  pageRef = "blogs"
+  name = "About"
+  pageRef = "about"
   weight = 10
 
 [[main]]
   name = "Projects"
   pageRef = "projects"
+  weight = 20
+
+[[main]]
+  name = "Gallery"
+  pageRef = "galleries"
   weight = 30
 
 [[main]]
   name = "Become"
   url = "https://howtobebetter.ai"
-  weight = 35
-
-[[main]]
-  name = "Gallery"
-  pageRef = "galleries"
   weight = 40
