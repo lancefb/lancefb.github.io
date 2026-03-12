@@ -8,6 +8,7 @@ ShowBreadCrumbs: false
 showHero: true
 heroStyle: "background"
 featureimage: "/images/gallery/string/sfSrl2.webp"
+showAuthor: false
 ---
 
 ## About this site
@@ -23,6 +24,8 @@ The name *Truth Beauty Math Coffee* comes from the things I keep circling back t
 
 If you've somehow found your way here, feel free to wander. There are stories. Struggles with shelter. A few triumphs. Some experiments in making art with math and other creative efforts. And then there are the stories of my family—as best I can remember. It's a long conversation with myself, stretched over years, chapters, and cups of coffee. If you find something here that feels true, or beautiful, or just slightly caffeinated—well, welcome.
 
+
+[![](/images/about-compass.webp)](/images/about-compass.webp)
 
 ## About me
 
