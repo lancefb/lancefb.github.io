@@ -10,7 +10,7 @@ featureimage: "/images/LLbella.webp"
 
 [![](/images/LLbella.webp)](/images/LLbella.webp)
 
-Last month the snow was still thick on the ground when Bella and I pushed through the café door.
+Last month the snow was still thick on the ground when Bella and I pushed through my favorite cafe, Brew Haha's door.
 
 Cold outside has a way of sharpening everything. The air bites your face. Boots crunch over frozen patches. The world feels slightly hostile, like winter is reminding everyone who's in charge.
 
