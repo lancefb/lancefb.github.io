@@ -1,9 +1,9 @@
 ---
-title: "Building a Personal Knowledge Base with AI"
+title: "Building a Personal Knowledge Base with AI (KB)"
 date: 2026-01-21
 draft: false
 tags: ["AI", "productivity", "knowledge-management", "PAI"]
-description: "How to set up a markdown-based memory system that your AI assistant can read and write to directly"
+description: "How to set up a markdown-based knowledge base that your AI assistant can read and write to directly"
 featureimage: "/images/desk_papers_notes_500x500.webp"
 ---
 
@@ -13,7 +13,7 @@ featureimage: "/images/desk_papers_notes_500x500.webp"
 
 Most note-taking systems are designed for humans. You write notes, organize them, and hope you can find them later. But what if your AI assistant could be a full participant—reading your notes for context, writing new ones, and helping you build a knowledge base over time?
 
-This tutorial shows how to set up a **MEMORY system**: a simple folder structure that serves as shared memory between you and your AI.
+This tutorial shows how to set up a **KB (knowledge base)**: a simple folder structure that serves as shared memory between you and your AI.
 
 ---
 
@@ -32,7 +32,7 @@ You end up copy-pasting between your notes app and your AI chat. That friction a
 The fix is simple: use a folder of markdown files that both you and your AI can access. No special app required—just files on disk.
 
 ```
-~/Documents/PAI/MEMORY/
+~/PAI/KB/
 ```
 
 Your AI reads and writes markdown. You can open the same files in any text editor, VS Code, or even Obsidian if you want a GUI.
@@ -44,15 +44,13 @@ Your AI reads and writes markdown. You can open the same files in any text edito
 Here's the structure I use:
 
 ```
-MEMORY/
+KB/
 ├── research/       # Research session outputs
 ├── ideas/          # Brainstorm captures
 ├── learnings/      # Things I've learned
 ├── decisions/      # Decisions and their rationale
 ├── sessions/       # Session summaries
-├── analysis/       # Deep-dive documents
-├── Work/           # Active task working memory
-└── State/          # Operational state (JSON)
+└── analysis/       # Deep-dive documents
 ```
 
 Each folder has a clear purpose. When you tell your AI to "save this research," it knows exactly where it goes.
@@ -64,14 +62,14 @@ Each folder has a clear purpose. When you tell your AI to "save this research," 
 Create the directory structure:
 
 ```bash
-mkdir -p ~/Documents/PAI/MEMORY/{research,ideas,learnings,decisions,sessions,analysis,Work,State}
+mkdir -p ~/PAI/KB/{research,ideas,learnings,decisions,sessions,analysis}
 ```
 
 Add a README so you remember what goes where:
 
 ```bash
-cat > ~/Documents/PAI/MEMORY/README.md << 'EOF'
-# MEMORY
+cat > ~/PAI/KB/README.md << 'EOF'
+# KB
 
 Personal knowledge base.
 
@@ -83,7 +81,6 @@ Personal knowledge base.
 | decisions/ | Decisions + rationale |
 | sessions/ | Session summaries |
 | analysis/ | Deep dives |
-| Work/ | Active tasks |
 EOF
 ```
 
@@ -100,34 +97,34 @@ Once the structure exists, you can talk to your AI naturally:
 ```
 "Save this idea: what if we used webhooks instead of polling?"
 ```
-→ Creates `MEMORY/ideas/2026-01-21_webhooks-idea.md`
+→ Creates `KB/ideas/2026-01-21_webhooks-idea.md`
 
 ```
 "Record this learning: Claude works better with specific examples"
 ```
-→ Creates `MEMORY/learnings/2026-01-21_claude-examples.md`
+→ Creates `KB/learnings/2026-01-21_claude-examples.md`
 
 ```
 "Save this research to memory"
 ```
-→ Creates `MEMORY/research/2026-01-21_[topic].md`
+→ Creates `KB/research/2026-01-21_[topic].md`
 
 ### Retrieving Content
 
 ```
 "What ideas have I saved recently?"
 ```
-→ AI reads from `MEMORY/ideas/`
+→ AI reads from `KB/ideas/`
 
 ```
 "What did I learn about API design?"
 ```
-→ AI searches `MEMORY/learnings/`
+→ AI searches `KB/learnings/`
 
 ```
 "Show me my recent research"
 ```
-→ AI lists files in `MEMORY/research/`
+→ AI lists files in `KB/research/`
 
 ### Building On Previous Work
 
@@ -139,7 +136,7 @@ Once the structure exists, you can talk to your AI naturally:
 ```
 "What decisions have I made about the database?"
 ```
-→ AI searches `MEMORY/decisions/` for relevant entries
+→ AI searches `KB/decisions/` for relevant entries
 
 ---
 
@@ -152,9 +149,9 @@ YYYY-MM-DD_short-description.md
 ```
 
 Examples:
-- `2026-01-21_webhooks-vs-polling.md`
-- `2026-01-15_auth-architecture-decision.md`
-- `2026-01-10_fabric-patterns-research.md`
+- `KB/research/2026-01-21_webhooks-vs-polling.md`
+- `KB/decisions/2026-01-15_auth-architecture-decision.md`
+- `KB/research/2026-01-10_fabric-patterns-research.md`
 
 This keeps files sorted chronologically and makes them easy to scan.
 
@@ -172,22 +169,6 @@ Now that insight is permanently captured and searchable.
 
 ---
 
-## The Work/ Directory
-
-For active tasks, I use a separate `Work/` directory with per-task folders:
-
-```
-Work/
-└── Website-Redesign_2026-01-20/
-    ├── Work.md           # Goal, status, notes
-    ├── Output/           # Deliverables
-    └── Learning/         # What I learned
-```
-
-When a task is done, learnings get promoted to the main `learnings/` folder, and the work directory gets archived.
-
----
-
 ## Tips
 
 1. **Be consistent with commands** — Pick phrases like "save this idea" and stick with them
@@ -202,9 +183,9 @@ When a task is done, learnings get promoted to the main `learnings/` folder, and
 
 You can! This approach works alongside those tools:
 
-- **Obsidian**: Point a vault at `MEMORY/` and get graph view, search, and plugins
+- **Obsidian**: Point a vault at `KB/` and get graph view, search, and plugins
 - **Notion**: Harder to integrate, but you could sync key files
-- **Apple Notes**: Use for quick mobile capture, then migrate important notes to `MEMORY/`
+- **Apple Notes**: Use for quick mobile capture, then migrate important notes to `KB/`
 
 The point isn't to replace your favorite app—it's to have a shared space where your AI can participate fully.
 
