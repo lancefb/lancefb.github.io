@@ -53,3 +53,7 @@ In which case, I have a modest suggestion for the next rename.
 </div>
 
 The Department of Skirmishes is right there. Honest, accurate, and somehow still better than what we've got.
+
+---
+
+*Pushback Jack is an ongoing project. [More about the show &rarr;](/projects/pushback-jack/)*
