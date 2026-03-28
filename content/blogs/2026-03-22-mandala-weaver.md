@@ -46,6 +46,6 @@ Here's the rendered version — title card, the full 43 seconds, music baked in:
 
 <div>
 <video controls style="width:100%;border-radius:4px;margin:1.5rem 0;">
-  <source src="/videos/mandalaweaver-square.webm" type="video/webm">
+  <source src="/videos/mandalaweaver-square.mp4" type="video/mp4">
 </video>
 </div>
