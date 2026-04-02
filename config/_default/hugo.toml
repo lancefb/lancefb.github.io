@@ -1,5 +1,5 @@
 theme = "blowfish"
-baseURL = "https://lancefb.github.io"
+baseURL = "https://lancebarker.me"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
