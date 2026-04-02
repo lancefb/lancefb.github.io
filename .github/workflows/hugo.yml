@@ -48,7 +48,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "https://lancefb.github.io/"
+            --baseURL "https://lancebarker.me/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
