@@ -22,9 +22,9 @@ That's how it begins.
 
 The Plumas Homegrown Americana Festival happened the last weekend of August — three days on the Plumas-Sierra Fairgrounds, Labor Day weekend, sixty dollars for the whole run if you wanted it. You could camp. You could jam. You could square dance until your legs gave out or your partner did, whichever came first.
 
-I'm one of the people who helped make it happen.
+I'm one of the people who helped make it happen - but my role was minor.
 
-My friends call me Barky. There's a stage named after me. I'm not sure what to do with that information except feel quietly stunned by it every time I think about it.
+My nickname is Barky. There's a stage named after me. I'm not sure what to do with that information except feel quietly stunned by it every time I think about it.
 
 **Barky's Stage** was where the local acts played. The ones who maybe didn't have a booking agent or a Spotify following or a van with the band name stenciled on the side. Just people from the region who had songs and wanted somewhere to play them. We gave them a stage.
 
