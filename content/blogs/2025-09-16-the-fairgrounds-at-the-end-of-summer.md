@@ -1,10 +1,15 @@
 ---
-title: "The Fairgrounds at the End of Summer"
+title: The Fairgrounds at the End of Summer
 date: 2025-09-16
 draft: false
-tags: ["music", "community", "americana", "quincy", "california"]
-description: "A look back at the Plumas Homegrown Americana Festival — what we built, what it meant, and why it might have been one for the ages."
-featureimage: "/images/plumas-americana-2025.webp"
+tags:
+  - music
+  - community
+  - americana
+  - quincy
+  - Festival
+description: A look back at the Plumas Homegrown Americana Festival — what we built, what it meant, and why it might have been one for the ages.
+featureimage: /images/plumas-americana-2025.webp
 ---
 
 [![](/images/plumas-americana-2025.webp)](/images/plumas-americana-2025.webp)
