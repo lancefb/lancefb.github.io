@@ -1,0 +1,5 @@
+{{/* Emit og:image and twitter:image from featureimage frontmatter param */}}
+{{ with .Params.featureimage }}
+  <meta property="og:image" content="{{ . | absURL }}">
+  <meta name="twitter:image" content="{{ . | absURL }}">
+{{ end }}
