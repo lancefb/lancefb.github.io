@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<title>Stage Note</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #111;
+    color: #fff;
+    font-family: -apple-system, sans-serif;
+    height: 100dvh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 28px;
+    user-select: none;
+    -webkit-user-select: none;
+  }
+  .note-label {
+    font-size: 1.5rem;
+    color: #888;
+    letter-spacing: 0.12em;
+  }
+  #play-btn {
+    width: 260px;
+    height: 260px;
+    border-radius: 50%;
+    background: #c8a035;
+    border: none;
+    color: #111;
+    font-size: 2rem;
+    font-weight: 800;
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+    transition: transform 0.08s, background 0.08s;
+    box-shadow: 0 0 50px rgba(200,160,53,0.35);
+  }
+  #play-btn:active, #play-btn.playing {
+    transform: scale(0.94);
+    background: #e6b83f;
+  }
+  .speed-row {
+    display: flex;
+    gap: 14px;
+  }
+  .speed-btn {
+    padding: 11px 26px;
+    border-radius: 22px;
+    border: 1.5px solid #444;
+    background: transparent;
+    color: #888;
+    font-size: 1rem;
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+    transition: border-color 0.15s, color 0.15s;
+  }
+  .speed-btn.active {
+    border-color: #c8a035;
+    color: #c8a035;
+  }
+  #status {
+    font-size: 1.2rem;
+    color: #666;
+    letter-spacing: 0.08em;
+    height: 1.6em;
+  }
+</style>
+</head>
+<body>
+
+<div class="note-label">D4 &nbsp;·&nbsp; E4 &nbsp;·&nbsp; F&#x266F;4</div>
+
+<button id="play-btn" onclick="playSequence()">PLAY</button>
+
+<div class="speed-row">
+  <button class="speed-btn active" onclick="setSpeed(650, this)">Normal</button>
+  <button class="speed-btn" onclick="setSpeed(1000, this)">Slow</button>
+</div>
+
+<div id="status"></div>
+
+<script>
+let spacing = 650;
+let playing = false;
+let wakeLock = null;
+
+const NOTES = [
+  { name: 'D4', freq: 293.66 },
+  { name: 'E4', freq: 329.63 },
+  { name: 'F♯4', freq: 369.99 },
+];
+
+async function acquireWakeLock() {
+  try {
+    if ('wakeLock' in navigator) {
+      wakeLock = await navigator.wakeLock.request('screen');
+    }
+  } catch (_) {}
+}
+
+acquireWakeLock();
+document.addEventListener('visibilitychange', () => {
+  if (document.visibilityState === 'visible') acquireWakeLock();
+});
+
+function playNote(freq, ctx) {
+  const now = ctx.currentTime;
+  const masterGain = ctx.createGain();
+  masterGain.connect(ctx.destination);
+
+  const osc = ctx.createOscillator();
+  osc.type = 'triangle';
+  osc.frequency.value = freq;
+  osc.connect(masterGain);
+
+  const osc2 = ctx.createOscillator();
+  osc2.type = 'sine';
+  osc2.frequency.value = freq * 2;
+  const gain2 = ctx.createGain();
+  gain2.gain.value = 0.18;
+  osc2.connect(gain2);
+  gain2.connect(masterGain);
+
+  masterGain.gain.setValueAtTime(0, now);
+  masterGain.gain.linearRampToValueAtTime(0.8, now + 0.01);
+  masterGain.gain.exponentialRampToValueAtTime(0.35, now + 0.25);
+  masterGain.gain.exponentialRampToValueAtTime(0.001, now + 2.0);
+
+  osc.start(now);
+  osc.stop(now + 2.0);
+  osc2.start(now);
+  osc2.stop(now + 2.0);
+}
+
+function setStatus(text) {
+  document.getElementById('status').textContent = text;
+}
+
+async function playSequence() {
+  if (playing) return;
+  playing = true;
+  document.getElementById('play-btn').classList.add('playing');
+
+  const ctx = new (window.AudioContext || window.webkitAudioContext)();
+
+  for (let i = 0; i < NOTES.length; i++) {
+    setStatus(NOTES[i].name);
+    playNote(NOTES[i].freq, ctx);
+    await new Promise(r => setTimeout(r, spacing));
+  }
+
+  setStatus('');
+  document.getElementById('play-btn').classList.remove('playing');
+  playing = false;
+}
+
+function setSpeed(ms, el) {
+  spacing = ms;
+  document.querySelectorAll('.speed-btn').forEach(b => b.classList.remove('active'));
+  el.classList.add('active');
+}
+</script>
+</body>
+</html>
