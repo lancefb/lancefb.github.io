@@ -76,14 +76,14 @@
 <button id="play-btn" onclick="playSequence()">PLAY</button>
 
 <div class="speed-row">
-  <button class="speed-btn active" onclick="setSpeed(650, this)">Normal</button>
-  <button class="speed-btn" onclick="setSpeed(1000, this)">Slow</button>
+  <button class="speed-btn active" onclick="setSpeed(325, this)">Normal</button>
+  <button class="speed-btn" onclick="setSpeed(500, this)">Slow</button>
 </div>
 
 <div id="status"></div>
 
 <script>
-let spacing = 650;
+let spacing = 325;
 let playing = false;
 let wakeLock = null;
 
@@ -146,10 +146,13 @@ async function playSequence() {
 
   const ctx = new (window.AudioContext || window.webkitAudioContext)();
 
-  for (let i = 0; i < NOTES.length; i++) {
-    setStatus(NOTES[i].name);
-    playNote(NOTES[i].freq, ctx);
-    await new Promise(r => setTimeout(r, spacing));
+  for (let pass = 0; pass < 2; pass++) {
+    for (let i = 0; i < NOTES.length; i++) {
+      setStatus(NOTES[i].name);
+      playNote(NOTES[i].freq, ctx);
+      await new Promise(r => setTimeout(r, spacing));
+    }
+    if (pass === 0) await new Promise(r => setTimeout(r, 800));
   }
 
   setStatus('');
