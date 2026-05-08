@@ -1,10 +1,17 @@
 ---
-title: "Sigils, Spirals, and Sine Waves"
+title: Sigils, Spirals, and Sine Waves
 date: 2026-02-26
 draft: false
-tags: ["Art", "AI", "Generative Art", "Sacred Geometry", "Music", "Remotion"]
-description: "A new generative animation built with AI — occult symbols, sacred geometry, and pure mathematics, synced to a beat."
-featureimage: "/images/symbology-grid.webp"
+tags:
+  - Art
+  - AI
+  - Generative Art
+  - Sacred Geometry
+  - Music
+  - Remotion
+  - P5js
+description: A new generative animation built with AI — occult symbols, sacred geometry, and pure mathematics, synced to a beat.
+featureimage: /images/symbology-grid.webp
 ---
 
 [![](/images/symbology-grid.webp)](/images/symbology-grid.webp)

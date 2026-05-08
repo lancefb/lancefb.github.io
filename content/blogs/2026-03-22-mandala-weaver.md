@@ -1,10 +1,15 @@
 ---
-title: "Mandala Weaver"
+title: Mandala Weaver
 date: 2026-03-22
 draft: false
-tags: ["Art", "AI", "Generative Art", "Music", "p5.js"]
-description: "Two old sketches — a deformed tangram rug and a radial mandala — finally introduced to each other."
-featureimage: "/images/mandala-weaver.webp"
+tags:
+  - Art
+  - AI
+  - Generative Art
+  - Music
+  - P5js
+description: Two old sketches — a deformed tangram rug and a radial mandala — finally introduced to each other.
+featureimage: /images/mandala-weaver.webp
 ---
 
 [![](/images/mandala-weaver.webp)](/images/mandala-weaver.webp)
