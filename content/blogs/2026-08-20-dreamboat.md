@@ -6,6 +6,7 @@ tags: ["Bella", "Sailing", "Dogs"]
 author: "L. Barker"
 description: "A dream about sailing with my dog Bella turned into a real boat, a drive to Sacramento, and a shepherd with plans of her own."
 featureimage: "/images/dreamboat-bella.webp"
+imagePosition: "center 66%"
 ---
 
 [![](/images/dreamboat-bella.webp)](/images/dreamboat-bella.webp)
